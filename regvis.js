@@ -206,7 +206,7 @@ d3.csv(url)
 	        window.msnry = new Masonry(elem, {
 	            // options
 	            itemSelector: ".grid-item",
-	            columnWidth: 250,
+	            columnWidth: 240,
 	            gutter: 15,
 	        });
 	    });
