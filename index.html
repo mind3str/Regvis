@@ -1,0 +1,333 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Evolution Visualization</title>
+		<link rel="stylesheet" href="style.css" />
+		<link
+			href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap"
+			rel="stylesheet"
+		/>
+		<script src="https://d3js.org/d3.v5.min.js"></script>
+		<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+		<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+	</head>
+	<body>
+        <div id="h">
+            <div id="head1"  style="width:950px;height:73px;float:left;">
+                <h1 style="height:50px;padding:5px 0;">
+                    <a id="indexa" href="index.html" style="height:73px">Regvis - A Visual Bibliography of Regulatory Visualization</a>
+                </h1>
+            </div>
+            <p id="related"  style="width:200px;height:20px;float:right;padding:50px 30px 1px;">
+                <a id="relateda" href="Related.html">Related Projects</a>
+            </p>
+        </div>
+    
+		<div class="grid-container">
+            <div id="controls">
+                
+                <h3 id="h3_data">Data Type and Source</h3>
+                <div id="filters_data">
+                    <select  class="demo" multiple="multiple">
+                        <optgroup label="DataType">
+                            <option value="Time serials">Time serials</option>
+                            <option value="Record Data">Record Data</option>
+                            <option value="Network">Network</option>
+                            <option value="Spatiotemporal">Spatiotemporal</option>
+                            <option value="Spatial">Spatial</option>
+                            <option value="None">None</option>
+                        </optgroup>
+                        <optgroup label="DataSource">
+                            <option value="Open source data">Open Source Data</option>
+                            <option value="Stock company">Stock company</option>
+                            <option value="Media company">Media company</option>
+                            <option value="Organization">Organization</option>
+                            <option value="Bank">Bank</option>
+                            <option value="None">None</option>
+                        </optgroup>   
+                    </select>  
+                </div>
+                <h3 id="h3_publication">Publication</h3>
+                <div id="filters_publication">
+                        <select class="demo" multiple="multiple">
+                            <optgroup label="Conference">
+                                <option value="IEEE VIS">IEEE VIS</option>
+                                <option value="EuroVis">EuroVis</option>
+                                <option value="VAST">VAST</option>
+                                <option value="TVCG">TVCG</option>
+                                <option value="Big data concepts, theories, and applications(Book)">Big data concepts, theories, and applications(Book)</option>
+                                <option value="Mapping Financial Stability(Book)">Mapping Financial Stability(Book)</option>
+                                <option value="Engineering Applications of Artificial Intelligence">Engineering Applications of Artificial Intelligence</option>
+                                <option value="DNB Working Paper">DNB Working Paper</option>
+                                <option value="Neurocomputing">Neurocomputing</option>
+                                <option value="Financial Stability Report">Financial Stability Report</option>
+                                <option value="ICT Systems Security and Privacy Protection">ICT Systems Security and Privacy Protection</option>
+                                <option value="CG&A - IEEE Computer Graphics and Applications Magazine">CG&A - IEEE Computer Graphics and Applications Magazine</option>
+                                <option value="AI Magazine">AI Magazine</option>
+                                <option value="University of Toronto">University of Toronto</option>
+                                <option value="KICSS - International Conference on Knowledge, Information and Creativity Support Systems">KICSS - International Conference on Knowledge, Information and Creativity Support Systems</option>
+                                <option value="IEA">IEA</option>
+                                <option value="Journal of Visualization">Journal of Visualization</option>
+                                <option value="IVAPP 2012 - International Conference on Information Visualization Theory and Applications">IVAPP 2012 - International Conference on Information Visualization Theory and Applications</option>
+                                <option value="VINCI - International Symposium on Visual Information Communication and Interaction">VINCI - International Symposium on Visual Information Communication and Interaction</option>
+                                <option value="International UKVAC Workshop on Visual Analytics">International UKVAC Workshop on Visual Analytics</option>
+                                <option value="Workshop on Self-Organizing Maps">Workshop on Self-Organizing Maps</option>
+                                <option value="IEEE Symposium on Computational Intelligence for Financial Engineering and Economics">IEEE Symposium on Computational Intelligence for Financial Engineering and Economics</option>
+                                <option value="IEEE Symposium on Information Visualization">IEEE Symposium on Information Visualization</option>
+                                <option value="Expert Systems with Applications">Expert Systems with Applications</option>
+                                <option value="Institute for Systems Research Technical Reports">Institute for Systems Research Technical Reports</option>
+                                <option value="CHI - ACM Conference on Human Factors in Computing Systems">CHI - ACM Conference on Human Factors in Computing Systems</option>
+                                <option value="IEEE Visualization Conference">IEEE Visualization Conference</option>
+                                <option value="Hawaii International Conference on System Sciences">Hawaii International Conference on System Sciences</option>
+                                <option value="Financial Analysis and Risk Management">Financial Analysis and Risk Management</option>
+                                <option value="International Conference on Availability,Reliability and Security">International Conference on Availability,Reliability and Security</option>
+                                <option value="Journal of financial stability">Journal of financial stability</option>
+                                <option value="IEEE SIGNAL PROCESSING MAGAZINE">IEEE SIGNAL PROCESSING MAGAZINE</option>
+                                <option value="Conference on Visualization and Data Analysis">Conference on Visualization and Data Analysis</option>
+                                <option value="Managerial Auditing Journal">Managerial Auditing Journal</option>
+                                <option value="International Federation for Information Processing">International Federation for Information Processing</option>
+                                <option value="information sciences">information sciences</option>
+                                <option value="IEEE International Conference on Intelligence and Security Informatics">IEEE International Conference on Intelligence and Security Informatics</option>
+                                <option value="IVAPP">IVAPP</option>
+                                <option value="VINCI">VINCI</option>
+                                <option value="ACM SIGKDD Explorations Newsletter">ACM SIGKDD Explorations Newsletter</option>
+                                <option value="SA'15 Symposium on VisHPC">SA'15 Symposium on VisHPC</option>
+                                <option value="Conference on Data Standards,Information,and Financial Stability">Conference on Data Standards,Information,and Financial Stability</option>
+                                <option value="IEEE Conference on Computational Intelligence for Financial Engineering &Economics">IEEE Conference on Computational Intelligence for Financial Engineering &Economics</option>
+                                <option value="VizSec">VizSec</option>
+                                <option value="Decision Support Systems">Decision Support Systems</option>
+                                <option value="InfoVis">InfoVis</option>
+                                <option value="iConference">iConference</option>
+                                <option value="EUROGRAPHICS">EUROGRAPHICS</option>
+                                <option value="Procedia Computer Science">Procedia Computer Science</option>
+                                <option value="IEEE TCVG Symposium on Visualization">IEEE TCVG Symposium on Visualization</option>
+                                <option value="Tsinghua Science and Technology ">Tsinghua Science and Technology </option>
+                                <option value="IEEE PacificVis">IEEE PacificVis</option>
+                            </optgroup>
+                            <optgroup label="domain">
+                                <option value="Computer science">Computer science</option>
+                                <option value="Financial">Financial</option>
+                                <option value="Both">Both</option>
+                            </optgroup>  
+                        </select>
+                </div>
+                <h3 id="h3_evoaims">Regulation Analysis</h3>
+                <div id="filters_evoaims">
+                    <select class="demo" multiple="multiple">
+                        <optgroup label="Regulation_Aims">
+                            <option value="Financial stability monitoring">Financial stability monitoring</option>
+                            <option value="Fraud and market abuse detection and prevention">Fraud and market abuse detection and prevention</option>
+                            <option value="Guarantee loans">Guarantee loans</option>
+                            <option value="Blockchain">Blockchain</option>
+                            <option value="Tax evasion discovery">Tax evasion discovery</option>
+                            <option value="Investment risk">Investment risk</option>
+                            <option value="Asset management">Asset management</option>
+                            <option value="Credit product assess">Credit product assess</option>
+                            <option value="Mobile money transfer">Mobile money transfer</option>
+                            <option value="Stock forestcasting">Stock forestcasting</option>
+                            <option value="Fixed incomes analysis">Fixed incomes analysis</option>
+                            <option value="Mutual funds analysis">Mutual funds analysis</option>
+                            <option value="Trading & sales">Trading & sales</option>
+                            <option value="None">None</option>
+                        </optgroup>
+                        <optgroup label="Regulatory_Agencies">
+                            <option value="Regulator">Regulator</option>
+                            <option value="User">User</option>
+                            <option value="Bank">Bank</option>
+                            <option value="Consumer">Consumer</option>
+                            <option value="Investor">Investor</option>
+                            <option value="Bank regulations">Bank regulations</option>
+                            <option value="None">None</option>
+                        </optgroup>
+                        <optgroup label="Regulations_Types">
+                            <option value="Financial trend analysis">Financial trend analysis</option>
+                            <option value="Fraud and market abuse detection and prevention">Fraud and market abuse detection and prevention</option>
+                            <option value="Inflation monitoring">Inflation monitoring</option>
+                            <option value="Market monitoring">Market monitoring</option>
+                            <option value="fraud detection">fraud detection</option>
+                            <option value="Commodities analysis">Commodities analysis</option>
+                            <option value="Bitcoin transaction analysis">Bitcoin transaction analysis</option>
+                            <option value="Tax evasion discovery">Tax evasion discovery</option>
+                            <option value="stock analysis">stock analysis</option>
+                            <option value="Assets/Fund analysis">Assets/Fund analysis</option>
+                            <option value="Consumer credit risk analysis/Credit product assess">Consumer credit risk analysis/Credit product assess</option>
+                            <option value="Bank interrelations analysis">Bank interrelations analysis</option>
+                            <option value="mutual funds analysis">mutual funds analysis</option>
+                            <option value="Rating fraud">Rating fraud</option>
+                            <option value="Market monitoring">Market monitoring</option>
+                            <option value="Dept monitoring">Dept monitoring</option>
+                            <option value="Foreign Exchange rate analysis">Foreign Exchange rate analysis</option>
+                            <option value="Basel accords">Basel accords</option>
+                            <option value="Financial institutions monitoring">Financial institutions monitoring</option>
+                            <option value="Bank regulations">Bank regulations</option>
+                            <option value="None">None</option>
+                        </optgroup>
+                    </select>
+                </div>
+                <h3 id="h3_evotype">Risk Analysis</h3>
+                <div id="filters_evotype">
+                    <select class="demo" multiple="multiple">
+                        <optgroup label="Risk_Type">
+                            <option value="Environmental risk">Environmental risk</option>
+                            <option value="Economic risk">Economic risk</option>
+                            <option value="Financial risk">Financial risk</option>
+                            <option value="Business risk">Business risk</option>
+                            <option value="Investment risk">Investment risk</option>
+                            <option value="None">None</option>
+                        </optgroup>
+                        <optgroup label="Risk_Management">
+                            <option value="Monitor">Monitor</option>
+                            <option value="Identify">Identify</option>
+                            <option value="Evaluation">Evaluation</option>
+                            <option value="Awareness">Awareness</option>
+                            <option value="Investor">Investor</option>
+                            <option value="None">None</option>
+                        </optgroup>
+                        <optgroup label="Financial_Risks">
+                            <option value="Market Risk">Market Risk</option>
+                            <option value="Liquedity Risk">Liquedity Risk</option>
+                            <option value="Credit Risk">Credit Risk</option>
+                            <option value="Operational Risk">Operational Risk</option>
+                            <option value="None">None</option>
+                        </optgroup>
+                    </select>
+                </div>
+                <h3 id="h3_Visualisation">Visual Technology</h3>
+                <div id="filters_Visualisation">
+                    <select class="demo" multiple="multiple">
+                        <optgroup label="Visualisation">
+                            <option value="SOM">SOM</option>
+                            <option value="Animations">Animations</option>
+                            <option value="The ForceAtlas2 layout">The ForceAtlas2 layout</option>
+                            <option value="Histograms">Histograms</option>
+                            <option value="Heatmap">Heatmap</option>
+                            <option value="Multi-line chart">Multi-line chart</option>
+                            <option value="network visualization">network visualization</option>
+                            <option value="Parallel coordinates">Parallel coordinates</option>
+                            <option value="Scatter plot">Scatter plot</option>
+                            <option value="KnotLines">KnotLines</option>
+                            <option value="Force-directed graph">Force-directed graph</option>
+                            <option value="Sankey view">Sankey view</option>
+                            <option value="Tree map">Tree map</option>
+                            <option value="Timeline">Timeline</option>
+                            <option value="Axis">Axis</option>
+                            <option value="Connection View">Connection View</option>
+                            <option value="The node-link graph">The node-link graph</option>
+                            <option value="3D Treemap">3D Treemap</option>
+                            <option value="Animation">Animation</option>
+                            <option value="The line chart">The line chart</option>
+                            <option value="Rader word frequency chart">Rader word frequency chart</option>
+                            <option value="Bubble motion chart">Bubble motion chart</option>
+                            <option value="Bar chart">Bar chart</option>
+                            <option value="Pixel bar chart matrix">Pixel bar chart matrix</option>
+                            <option value="The pixel-based growth Matrix">The pixel-based growth Matrix</option>
+                            <option value="bubble chart">bubble chart</option>
+                            <option value="The graph-based view">The graph-based view</option>
+                            <option value="The pixel-based paradigm">The pixel-based paradigm</option>
+                            <option value="The line graph">The line graph</option>
+                            <option value="Pixel">Pixel</option>
+                            <option value="Pixel matrix">Pixel matrix</option>
+                            <option value="force-directed graph drawing with N-body simulation in physics">force-directed graph drawing with N-body simulation in physics</option>
+                            <option value="Graph">Graph</option>
+                            <option value="Scatter density plot">Scatter density plot</option>
+                            <option value="Hexagonal self-organizing map grid">Hexagonal self-organizing map grid</option>
+                            <option value="Sphere-based scatter plot">Sphere-based scatter plot</option>
+                            <option value="Force-directed graph">Force-directed graph</option>
+                            <option value="Sphere-based tree map">Sphere-based tree map</option>
+                            <option value="Line graphs">Line graphs</option>
+                            <option value="3D Floors and walls(Projected 2D charts on 3D walls)">3D Floors and walls(Projected 2D charts on 3D walls)</option>
+                            <option value="Sequence diagram">Sequence diagram</option>
+                            <option value="Surface plot">Surface plot</option>
+                            <option value="Small multiples">Small multiples</option>
+                            <option value="Floors and walls">Floors and walls</option>
+                            <option value="Interactive Lens">Interactive Lens</option>
+                            <option value="Linked triangle chart">Linked triangle chart</option>
+                            <option value="line chart">line chart</option>
+                            <option value="Node-link diagram">Node-link diagram</option>
+                            <option value="Star plot">Star plot</option>
+                            <option value="Geographic Map">Geographic Map</option>
+                            <option value="Splat visualization">Splat visualization</option>
+                            <option value="Glyph">Glyph</option>
+                            <option value="Sunburst diagram">Sunburst diagram</option>
+                            <option value="Icicle diagram">Icicle diagram</option>
+                            <option value="pie chart">pie chart</option>
+                            <option value="Sunburst diagram">Sunburst diagram</option>
+                            <option value="Rader view">Rader view</option>
+                            <option value="Glyph plot">Glyph plot</option>
+                            <option value="Radial">Radial</option>
+                            <option value="Concentric rings">Concentric rings</option>
+                            <option value="Squared self-organizing map grid">Squared self-organizing map grid</option>
+                            <option value="None">None</option>
+                        </optgroup>
+                        <optgroup label="Interaction">
+                            <option value="Select">Select</option>
+                            <option value="Explore">Explore</option>
+                            <option value="Filter">Filter</option>
+                            <option value="Connect">Connect</option>
+                            <option value="Reconfigure">Reconfigure</option>
+                            <option value="Encode">Encode</option>
+                            <option value="Abstract/Elaborate">Abstract/Elaborate</option>
+                            <option value="ReconfigureEncode">ReconfigureEncode</option>
+                            <option value="None">None</option>
+                        </optgroup>
+
+                    </select>
+                </div>
+                <h3 id="h3_machine">Machine Learning</h3>
+                <div id="filters_machine">
+                    <select class="demo" multiple="multiple">
+                        <optgroup label="Machine_Learning">
+                            <option value="t-SNE">t-SNE</option>
+                            <option value="k-means">k-means</option>
+                            <option value="SOM">SOM</option>
+                            <option value="SRM Modle">SRM Modle</option>
+                            <option value="not mention">not mention</option>
+                            <option value="Decision Tree">Decision Tree</option>
+                            <option value="XGBoost">XGBoost</option>
+                            <option value="MDS">MDS</option>
+                            <option value="Similar to Pagerank">Similar to Pagerank</option>
+                            <option value="Similar to k-core">Similar to k-core</option>
+                            <option value="dimensionality reduction">dimensionality reduction</option>
+                            <option value="LSTM auto-encoder">LSTM auto-encoder</option>
+                            <option value="K-core">K-core</option>
+                            <option value="Self-organizing maps">Self-organizing maps</option>
+                            <option value="Fuzzy C-means clustering">Fuzzy C-means clustering</option>
+                            <option value="Self-organizing maps">Self-organizing maps</option>
+                            <option value="Louvain Clustering">Louvain Clustering</option>
+                            <option value="Adaptive Network-based Fuzzy Inference System">Adaptive Network-based Fuzzy Inference System</option>
+                            <option value="Quantum-behaved Particle Swarm Optimization">Quantum-behaved Particle Swarm Optimization</option>
+                            <option value="Wavelet Transform">Wavelet Transform</option>
+                            <option value="Association rules">Association rules</option>
+                            <option value="Pattern-matching">Pattern-matching</option>
+                            <option value="None">None</option>
+                        </optgroup>
+                    </select>
+                </div>
+                <br />
+                <div style="text-align:center">
+                    <div class="el-input" style="width: 192.29px; height: 27.2px; text-align:center">
+                        <input type="text" id="search"autocomplete="off" placeholder="search" class="input_search" style="width:192px;">
+                    </div>
+                </div>
+                <br />
+                <div style="text-align:center">
+                ( Numbers of techniques:<span id="count"></span> )
+                </div>
+                <div style="text-align:center">
+                    <a href="datas1.csv" target="_blank">Export Data</a>
+                </div>
+                
+            </div>
+            <div id="container" class="grid"></div>
+		</div>
+		<script type="text/javascript" src="regvis.js"></script>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/fSelect.js"></script>
+        <script>
+$(function() {
+        $('.demo').fSelect();
+    });
+</script>
+	</body>
+</html>
