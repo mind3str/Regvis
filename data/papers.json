@@ -1880,7 +1880,7 @@
  },
  {
   "ID": "C03958",
-  "CitationKey": "columba2018risk",
+  "CitationKey": "venditti2018risk",
   "Title": "A risk dashboard for the Italian economy",
   "Authors": [
    "Fabrizio Venditti",
@@ -1917,7 +1917,7 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
-  "Bibtex": "@misc{columba2018risk, title={{A Risk Dashboard for the Italian Economy}}, ISSN={1556-5068}, DOI={10.2139/ssrn.3160804}, publisher={Elsevier BV}, author={Columba, Francesco and Venditti, Fabrizio and Sorrentino, Alberto Maria}, year={2018},\n  howpublished = {SSRN working paper}\n}",
+  "Bibtex": "@misc{venditti2018risk, title={{A Risk Dashboard for the Italian Economy}}, ISSN={1556-5068}, DOI={10.2139/ssrn.3160804}, publisher={Elsevier BV}, author={Venditti, Fabrizio and Columba, Francesco and Sorrentino, Alberto Maria}, year={2018},\n  howpublished = {SSRN working paper}\n}",
   "Thumbnail": "thumbnails/C03958.png",
   "ThumbnailSource": "panels",
   "ThumbnailFigure": "Table 9"
