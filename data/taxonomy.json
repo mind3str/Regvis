@@ -1,0 +1,178 @@
+{
+ "groups": [
+  "Level",
+  "Task",
+  "Data",
+  "Visualization",
+  "Interaction",
+  "Analytics",
+  "Evaluation",
+  "Collaborator"
+ ],
+ "labels": {
+  "Level": [
+   "Macroprudential oversight",
+   "Microprudential supervision and compliance",
+   "Supervision of emerging finance"
+  ],
+  "Task": [
+   "Fraud detection and transaction monitoring",
+   "Anti-money laundering and illicit-flow tracing",
+   "Systemic risk and contagion",
+   "Financial stability monitoring and early warning",
+   "Credit risk and bank supervision",
+   "Market surveillance and manipulation",
+   "Audit, compliance and regulatory reporting",
+   "Crypto-ecosystem monitoring"
+  ],
+  "Data": [
+   "Transactions and payments",
+   "Networks",
+   "On-chain data",
+   "Market time series",
+   "Multivariate indicators",
+   "Text",
+   "Accounting records and logs",
+   "Geographic data"
+  ],
+  "Visualization": [
+   "Node-link diagrams",
+   "Coordinated multiple views",
+   "Dashboards",
+   "SOM and projections",
+   "Temporal and flow views",
+   "Multivariate glyphs",
+   "Matrices and heatmaps",
+   "Maps",
+   "Statistical charts"
+  ],
+  "Interaction": [
+   "Static",
+   "Exploration and filtering",
+   "Comparison",
+   "Steering models or rules",
+   "What-if simulation",
+   "Guided workflow"
+  ],
+  "Analytics": [
+   "None",
+   "Clustering",
+   "Anomaly detection",
+   "Supervised learning",
+   "Graph mining",
+   "Text mining and language models",
+   "Statistical models",
+   "Process mining",
+   "Model explanation",
+   "Rules and scoring"
+  ],
+  "Evaluation": [
+   "Case study",
+   "Expert interview",
+   "User study",
+   "None reported"
+  ],
+  "Collaborator": [
+   "Regulators and public authorities",
+   "Financial institutions",
+   "Law enforcement",
+   "Auditors",
+   "Other domain experts",
+   "None reported"
+  ]
+ },
+ "abbr": {
+  "Level": {
+   "Macroprudential oversight": "Macro",
+   "Microprudential supervision and compliance": "Micro",
+   "Supervision of emerging finance": "Emerging"
+  },
+  "Task": {
+   "Fraud detection and transaction monitoring": "Fraud",
+   "Anti-money laundering and illicit-flow tracing": "AML",
+   "Systemic risk and contagion": "SysRisk",
+   "Financial stability monitoring and early warning": "Stab",
+   "Credit risk and bank supervision": "Credit",
+   "Market surveillance and manipulation": "Market",
+   "Audit, compliance and regulatory reporting": "Audit",
+   "Crypto-ecosystem monitoring": "Crypto"
+  },
+  "Data": {
+   "Transactions and payments": "Txn",
+   "Networks": "Net",
+   "On-chain data": "Chain",
+   "Market time series": "Mkt",
+   "Multivariate indicators": "Ind",
+   "Text": "Text",
+   "Accounting records and logs": "Log",
+   "Geographic data": "Geo"
+  },
+  "Visualization": {
+   "Node-link diagrams": "Net",
+   "Coordinated multiple views": "CMV",
+   "Dashboards": "Dash",
+   "SOM and projections": "Proj",
+   "Temporal and flow views": "Time",
+   "Multivariate glyphs": "Glyph",
+   "Matrices and heatmaps": "Mat",
+   "Maps": "Map",
+   "Statistical charts": "Chart"
+  },
+  "Interaction": {
+   "Static": "Static",
+   "Exploration and filtering": "Expl",
+   "Comparison": "Comp",
+   "Steering models or rules": "Steer",
+   "What-if simulation": "Sim",
+   "Guided workflow": "Guide"
+  },
+  "Analytics": {
+   "None": "None",
+   "Clustering": "Clust",
+   "Anomaly detection": "Anom",
+   "Supervised learning": "ML",
+   "Graph mining": "Graph",
+   "Text mining and language models": "NLP",
+   "Statistical models": "Stat",
+   "Process mining": "Proc",
+   "Model explanation": "XAI",
+   "Rules and scoring": "Rule"
+  },
+  "Evaluation": {
+   "Case study": "CS",
+   "Expert interview": "EI",
+   "User study": "US",
+   "None reported": "None"
+  },
+  "Collaborator": {
+   "Regulators and public authorities": "Reg",
+   "Financial institutions": "FI",
+   "Law enforcement": "Law",
+   "Auditors": "Aud",
+   "Other domain experts": "Exp",
+   "None reported": "None"
+  }
+ },
+ "periods": [
+  [
+   "up to 2014",
+   null,
+   2014
+  ],
+  [
+   "2015-2019",
+   2015,
+   2019
+  ],
+  [
+   "since 2020",
+   2020,
+   null
+  ]
+ ],
+ "count": 80,
+ "years": [
+  1999,
+  2026
+ ]
+}
