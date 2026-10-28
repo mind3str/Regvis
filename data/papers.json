@@ -37,6 +37,9 @@
   "Collaborator": [
    "None reported"
   ],
+  "Community": [
+   "Preprint"
+  ],
   "Bibtex": "@misc{pereda2026operator,\n  doi = {10.48550/ARXIV.2609.22202},\n  author = {Pereda, Ana Isabel Castillo},\n  keywords = {Risk Management (q-fin.RM), Probability (math.PR), FOS: Economics and business, FOS: Mathematics},\n  title = {{An Operator-Based Visual Analytics Pipeline for Synthetic Systemic Risk Dynamics}},\n  publisher = {arXiv},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International},\n  howpublished = {arXiv preprint 2609.22202}\n}",
   "Thumbnail": "thumbnails/C00859.png",
   "ThumbnailSource": "pdf",
@@ -54,7 +57,7 @@
   "Venue": "",
   "DOI": "10.2139/ssrn.6449370",
   "Link": "https://doi.org/10.2139/ssrn.6449370",
-  "Section": "Fraud Detection and Transaction Monitoring",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -76,6 +79,9 @@
   ],
   "Collaborator": [
    "Regulators and public authorities"
+  ],
+  "Community": [
+   "Finance, economics and accounting"
   ],
   "Bibtex": "@misc{kapoor2026digidhan, title={{Digidhan Dashboard: A Digital Public Infrastructure for Monitoring, Analysis, and Promotion of India’s Digital Payment Ecosystem}}, DOI={10.2139/ssrn.6449370}, publisher={Elsevier BV}, author={Kapoor, Misha and Bhaisare, Sulbha}, year={2026},\n  howpublished = {SSRN working paper}\n}",
   "Thumbnail": "thumbnails/C00606.png",
@@ -128,6 +134,9 @@
   "Collaborator": [
    "Financial institutions"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@article{liu2026identifying, title={{Identifying Financial Risk Contagion with Large Language Models and Temporal Graph Learning}}, volume={5}, ISSN={2771-5892}, DOI={10.34133/icomputing.0292}, journal={Intelligent Computing}, publisher={American Association for the Advancement of Science (AAAS)}, author={Liu, Moyang and Zhao, Letian and Chen, Junqi and Li, Xiang and Zhang, Shuo and Niu, Zhibin}, year={2026} }",
   "Thumbnail": "thumbnails/C00435.png",
   "ThumbnailSource": "pdf",
@@ -151,7 +160,7 @@
   "Venue": "arXiv (Cornell University)",
   "DOI": "10.48550/arxiv.2607.11451",
   "Link": "https://doi.org/10.48550/arxiv.2607.11451",
-  "Section": "Fraud and Market Manipulation",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -180,6 +189,9 @@
   "Collaborator": [
    "Other domain experts"
   ],
+  "Community": [
+   "Preprint"
+  ],
   "Bibtex": "@misc{wen2026maniscope,\n  doi = {10.48550/ARXIV.2607.11451},\n  author = {Wen, Xiaolin and Liang, Feng and Ma, Yuanye and Fu, Qishuang and Sun, Zhengyu and Zhu, Feng and Liu, Can and Wang, Yong},\n  keywords = {Human-Computer Interaction (cs.HC), FOS: Computer and information sciences},\n  title = {{ManiScope: LLM-Assisted Visual Analytics of Cryptocurrency Manipulation Risk}},\n  publisher = {arXiv},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International},\n  howpublished = {arXiv preprint 2607.11451}\n}",
   "Thumbnail": "thumbnails/C00342.png",
   "ThumbnailSource": "panels",
@@ -199,7 +211,7 @@
   "Venue": "arXiv (Cornell University)",
   "DOI": "10.48550/arxiv.2605.10522",
   "Link": "https://doi.org/10.48550/arxiv.2605.10522",
-  "Section": "Anti-Money Laundering",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -224,6 +236,9 @@
   ],
   "Collaborator": [
    "None reported"
+  ],
+  "Community": [
+   "Preprint"
   ],
   "Bibtex": "@misc{esteves2026balance,\n  author = {Esteves, Salom{\\'e} and Costa, Rita and Fallon, Louise and Bizarro, Pedro},\n  title = {The Balance between Nuance and Clarity: Decluttering Tabular Sequential Graphs to Counter Money Laundering},\n  howpublished = {arXiv preprint 2605.10522; accepted at IEEE VIS 2026},\n  year = {2026},\n  doi = {10.48550/arXiv.2605.10522}\n}",
   "Thumbnail": "thumbnails/C00125.png",
@@ -273,6 +288,9 @@
   "Collaborator": [
    "Financial institutions"
   ],
+  "Community": [
+   "Preprint"
+  ],
   "Bibtex": "@misc{cordeiro2025fraudguess,\n  author = {Cordeiro, Robson L. F. and Lee, Meng-Chieh and Faloutsos, Christos},\n  title = {{FraudGuess}: Spotting and Explaining New Types of Fraud in Million-Scale Financial Data},\n  howpublished = {arXiv preprint 2509.15493},\n  year = {2025},\n  doi = {10.48550/arXiv.2509.15493}\n}",
   "Thumbnail": "thumbnails/C04541.png",
   "ThumbnailSource": "pdf",
@@ -294,7 +312,7 @@
   "Venue": "RePEc: Research Papers in Economics",
   "DOI": "10.48550/arxiv.2502.13979",
   "Link": "https://doi.org/10.48550/arxiv.2502.13979",
-  "Section": "Systemic Risk and Contagion",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -317,6 +335,9 @@
   "Collaborator": [
    "Financial institutions"
   ],
+  "Community": [
+   "Preprint"
+  ],
   "Bibtex": "@misc{yu2025utilizing,\n  doi = {10.48550/ARXIV.2502.13979},\n  author = {Yu, Guanyuan and Li, Qing and Zhao, Yu and Wang, Jun and Chen, YiJun and Chen, Shaolei},\n  keywords = {Risk Management (q-fin.RM), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), FOS: Economics and business, FOS: Economics and business, FOS: Computer and information sciences, FOS: Computer and information sciences},\n  title = {{Utilizing Effective Dynamic Graph Learning to Shield Financial Stability from Risk Propagation}},\n  publisher = {arXiv},\n  year = {2025},\n  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International},\n  howpublished = {arXiv preprint 2502.13979}\n}",
   "Thumbnail": "thumbnails/C01063.png",
   "ThumbnailSource": "pdf",
@@ -336,7 +357,7 @@
   "Venue": "Journal of Emerging Technologies in Accounting",
   "DOI": "10.2308/jeta-2022-063",
   "Link": "https://doi.org/10.2308/jeta-2022-063",
-  "Section": "Audit, Tax Inspection, and Regulatory Reporting",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -360,6 +381,9 @@
   "Collaborator": [
    "None reported"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@article{zhang2025visual, title={{Visual Analytics and Visual Audit}}, volume={22}, ISSN={1558-7940}, DOI={10.2308/jeta-2022-063}, number={1}, journal={Journal of Emerging Technologies in Accounting}, publisher={American Accounting Association}, author={Zhang, Lu and Lee, Heejae and Liu, Qi and Vasarhelyi, Miklos A.}, year={2025}, pages={153–173} }",
   "Thumbnail": "thumbnails/C01055.png",
   "ThumbnailSource": "placeholder",
@@ -377,7 +401,7 @@
   "Venue": "arXiv (Cornell University)",
   "DOI": "10.48550/arxiv.2408.14552",
   "Link": "https://doi.org/10.48550/arxiv.2408.14552",
-  "Section": "Fraud Detection and Transaction Monitoring",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -404,6 +428,9 @@
   "Collaborator": [
    "None reported"
   ],
+  "Community": [
+   "Preprint"
+  ],
   "Bibtex": "@misc{chatzimparmpas2024aiding,\n  author = {Chatzimparmpas, Angelos and Dimara, Evanthia},\n  title = {Aiding Humans in Financial Fraud Decision Making: Toward an {XAI}-Visualization Framework},\n  howpublished = {arXiv preprint 2408.14552},\n  year = {2024},\n  doi = {10.48550/arXiv.2408.14552}\n}",
   "Thumbnail": "thumbnails/C02525.png",
   "ThumbnailSource": "pdf",
@@ -426,7 +453,7 @@
   "Venue": "IEEE Transactions on Visualization and Computer Graphics",
   "DOI": "10.1109/tvcg.2024.3516379",
   "Link": "https://doi.org/10.1109/tvcg.2024.3516379",
-  "Section": "Fraud and Market Manipulation",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -451,6 +478,9 @@
    "Auditors",
    "Other domain experts"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@article{wen2025ponzilens, title={{PonziLens+: Visualizing Bytecode Actions for Smart Ponzi Scheme Identification}}, volume={31}, ISSN={2160-9306}, DOI={10.1109/tvcg.2024.3516379}, number={9}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Wen, Xiaolin and Nguyen, Tai D. and Ruan, Shaolun and Shen, Qiaomu and Sun, Jun and Zhu, Feida and Wang, Yong}, year={2025}, pages={6451–6465} }",
   "Thumbnail": "thumbnails/C02258.png",
   "ThumbnailSource": "pdf",
@@ -474,7 +504,7 @@
   "Venue": "International Joint Conference on Artificial Intelligence",
   "DOI": "10.24963/ijcai.2024/817",
   "Link": "https://doi.org/10.24963/ijcai.2024/817",
-  "Section": "Credit Risk and Guarantee Networks",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -500,6 +530,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@inproceedings{lu2024risqnet, series={IJCAI-2024}, title={{RisQNet: Rescuing SMEs from Financial Shocks with a Novel Networked-Loan Risk Assessment}}, DOI={10.24963/ijcai.2024/817}, booktitle={Proceedings of the Thirty-ThirdInternational Joint Conference on Artificial Intelligence}, publisher={International Joint Conferences on Artificial Intelligence Organization}, author={Lu, Zhaoyuan and Li, Taijun and Zhang, Jingzhen and Liu, Moyang and Li, Xiang and Cui, Linyi and Chen, Junqi and Niu, Zhibin}, year={2024}, pages={7385–7393}, collection={IJCAI-2024} }",
   "Thumbnail": "thumbnails/C02231.png",
   "ThumbnailSource": "pdf",
@@ -520,7 +553,7 @@
   "Venue": "SSRN Electronic Journal",
   "DOI": "10.2139/ssrn.4605929",
   "Link": "https://doi.org/10.2139/ssrn.4605929",
-  "Section": "Illicit Fund Tracing on Blockchains",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -546,6 +579,9 @@
   "Collaborator": [
    "None reported"
   ],
+  "Community": [
+   "Preprint"
+  ],
   "Bibtex": "@misc{jeyakumar2023graph, title={{A Graph-Based Visual Modeling for Enhancing Suspicious Node Detection in Blockchain Networks}}, DOI={10.2139/ssrn.4605929}, publisher={Elsevier BV}, author={Jeyakumar, Samantha and Charles, Eugene Yugarajah Andrew and Hou, Zhe and Palaniswami, Marimuthu and Muthukkumarasamy, Vallipuram}, year={2023},\n  howpublished = {SSRN working paper}\n}",
   "Thumbnail": "thumbnails/C02935.png",
   "ThumbnailSource": "pdf",
@@ -568,7 +604,7 @@
   "Venue": "Frontiers of Computer Science",
   "DOI": "10.1007/s11704-023-2531-0",
   "Link": "https://doi.org/10.1007/s11704-023-2531-0",
-  "Section": "Illicit Fund Tracing on Blockchains",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -586,6 +622,9 @@
   ],
   "Collaborator": [
    "None reported"
+  ],
+  "Community": [
+   "Other computing"
   ],
   "Bibtex": "@article{bao2023btc, title={{BTC-Shadow: an analysis and visualization system for exposing implicit behaviors in Bitcoin transaction graphs}}, volume={17}, ISSN={2095-2236}, DOI={10.1007/s11704-023-2531-0}, number={6}, journal={Frontiers of Computer Science}, publisher={Springer Science and Business Media LLC}, author={Bao, Ding and Ren, Wei and Xiang, Yuexin and Liu, Weimao and Zhu, Tianqing and Ren, Yi and Choo, Kim-Kwang Raymond}, year={2023} }",
   "Thumbnail": "thumbnails/C02887.png",
@@ -612,7 +651,7 @@
   "Venue": "IEEE Transactions on Visualization and Computer Graphics",
   "DOI": "10.1109/tvcg.2023.3261910",
   "Link": "https://doi.org/10.1109/tvcg.2023.3261910",
-  "Section": "Audit, Tax Inspection, and Regulatory Reporting",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -642,6 +681,9 @@
   "Collaborator": [
    "Auditors"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@article{zhou2023fraudauditor, title={{FraudAuditor: A Visual Analytics Approach for Collusive Fraud in Health Insurance}}, volume={29}, ISSN={2160-9306}, DOI={10.1109/tvcg.2023.3261910}, number={6}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Zhou, Jiehui and Wang, Xumeng and Wang, Jie and Ye, Hui and Wang, Huanliang and Zhou, Zihan and Han, Dongming and Ying, Haochao and Wu, Jian and Chen, Wei}, year={2023}, pages={2849–2861} }",
   "Thumbnail": "thumbnails/C02772.png",
   "ThumbnailSource": "panels",
@@ -662,7 +704,7 @@
   "Venue": "International Conference on AI in Finance",
   "DOI": "10.1145/3604237.3626872",
   "Link": "https://doi.org/10.1145/3604237.3626872",
-  "Section": "Fraud Detection and Transaction Monitoring",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -691,6 +733,9 @@
   "Collaborator": [
    "Financial institutions"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@inproceedings{ding2023detection, series={ICAIF ’23}, title={{From Detection to Action: a Human-in-the-loop Toolkit for Anomaly Reasoning and Management}}, DOI={10.1145/3604237.3626872}, booktitle={4th ACM International Conference on AI in Finance}, publisher={ACM}, author={Ding, Xueying and Seleznev, Nikita and Kumar, Senthil and Bruss, C. Bayan and Akoglu, Leman}, year={2023}, pages={279–287}, collection={ICAIF ’23} }",
   "Thumbnail": "thumbnails/C02770.png",
   "ThumbnailSource": "pdf",
@@ -711,7 +756,7 @@
   "Venue": "CHI Conference on Human Factors in Computing Systems",
   "DOI": "10.1145/3544548.3581466",
   "Link": "https://doi.org/10.1145/3544548.3581466",
-  "Section": "Fraud and Market Manipulation",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -738,6 +783,9 @@
   "Collaborator": [
    "Financial institutions"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@inproceedings{wen2023nftdisk, series={CHI ’23}, title={{NFTDisk: Visual Detection of Wash Trading in NFT Markets}}, DOI={10.1145/3544548.3581466}, booktitle={Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems}, publisher={ACM}, author={Wen, Xiaolin and Wang, Yong and Yue, Xuanwu and Zhu, Feida and Zhu, Min}, year={2023}, pages={1–15}, collection={CHI ’23} }",
   "Thumbnail": "thumbnails/C04523.png",
   "ThumbnailSource": "panels",
@@ -762,7 +810,7 @@
   "Venue": "IEEE Transactions on Computational Social Systems",
   "DOI": "10.1109/tcss.2022.3231687",
   "Link": "https://doi.org/10.1109/tcss.2022.3231687",
-  "Section": "Illicit Fund Tracing on Blockchains",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -790,6 +838,9 @@
   "Collaborator": [
    "Financial institutions"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@article{zhou2024visual, title={{Visual Analysis of Money Laundering in Cryptocurrency Exchange}}, volume={11}, ISSN={2373-7476}, DOI={10.1109/tcss.2022.3231687}, number={1}, journal={IEEE Transactions on Computational Social Systems}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Zhou, Fangfang and Chen, Yunpeng and Zhu, Chunyao and Jiang, Lijia and Liao, Xincheng and Zhong, Zengsheng and Chen, Xiaohui and Chen, Yi and Zhao, Ying}, year={2024}, pages={731–745} }",
   "Thumbnail": "thumbnails/C02588.png",
   "ThumbnailSource": "panels",
@@ -808,7 +859,7 @@
   "Venue": "Information Visualization",
   "DOI": "10.1177/14738716221098074",
   "Link": "https://doi.org/10.1177/14738716221098074",
-  "Section": "Fraud Detection and Transaction Monitoring",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -834,6 +885,9 @@
   "Collaborator": [
    "Financial institutions"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@article{macas2022atovis, title={{ATOVis – A visualisation tool for the detection of financial fraud}}, volume={21}, ISSN={1473-8724}, DOI={10.1177/14738716221098074}, number={4}, journal={Information Visualization}, publisher={SAGE Publications}, author={Maçãs, Catarina and Polisciuc, Evgheni and Machado, Penousal}, year={2022}, pages={371–392} }",
   "Thumbnail": "thumbnails/C03229.png",
   "ThumbnailSource": "panels",
@@ -853,7 +907,7 @@
   "Venue": "IEEE Transactions on Big Data",
   "DOI": "10.1109/tbdata.2022.3188660",
   "Link": "https://doi.org/10.1109/tbdata.2022.3188660",
-  "Section": "Illicit Fund Tracing on Blockchains",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -885,6 +939,9 @@
    "Regulators and public authorities",
    "Financial institutions"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@article{sun2023bitanalysis, title={{BitAnalysis: A Visualization System for Bitcoin Wallet Investigation}}, volume={9}, ISSN={2372-2096}, DOI={10.1109/tbdata.2022.3188660}, number={2}, journal={IEEE Transactions on Big Data}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Sun, Yujing and Xiong, Hao and Yiu, Siu Ming and Lam, Kwok Yan}, year={2023}, pages={621–636} }",
   "Thumbnail": "thumbnails/C03208.png",
   "ThumbnailSource": "pdf",
@@ -904,7 +961,7 @@
   "Venue": "IEEE Transactions on Knowledge and Data Engineering",
   "DOI": "10.1109/tkde.2022.3162339",
   "Link": "https://doi.org/10.1109/tkde.2022.3162339",
-  "Section": "Credit Risk and Guarantee Networks",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -925,6 +982,9 @@
   ],
   "Collaborator": [
    "Regulators and public authorities"
+  ],
+  "Community": [
+   "Other computing"
   ],
   "Bibtex": "@article{cheng2022regulating, title={{Regulating systemic crises: Stemming the contagion risk in networked-loans through deep graph learning}}, ISSN={2326-3865}, DOI={10.1109/tkde.2022.3162339}, journal={IEEE Transactions on Knowledge and Data Engineering}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Cheng, Dawei and Niu, Zhibin and Li, Jie and Jiang, Changjun}, year={2022}, pages={1–1} }",
   "Thumbnail": "thumbnails/C03043.png",
@@ -950,7 +1010,7 @@
   "Venue": "European Financial Management",
   "DOI": "10.1111/eufm.12353",
   "Link": "https://doi.org/10.1111/eufm.12353",
-  "Section": "Market Surveillance and Manipulation",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -975,6 +1035,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@article{debie2022unravelling, title={{Unravelling the JPMorgan spoofing case using particle physics visualization methods}}, volume={29}, ISSN={1468-036X}, DOI={10.1111/eufm.12353}, number={1}, journal={European Financial Management}, publisher={Wiley}, author={Debie, Philippe and Gardebroek, Cornelis and Hageboeck, Stephan and Van Leeuwen, Paul and Moneta, Lorenzo and Naumann, Axel and Pennings, Joost M. E. and Trujillo‐Barrera, Andres A. and Verhulst, Marjolein E.}, year={2022}, pages={288–326} }",
   "Thumbnail": "thumbnails/C02975.png",
   "ThumbnailSource": "panels",
@@ -996,7 +1059,7 @@
   "Venue": "Computer Graphics Forum",
   "DOI": "10.1111/cgf.14723",
   "Link": "https://doi.org/10.1111/cgf.14723",
-  "Section": "Financial Stability Monitoring and Early Warning",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -1023,6 +1086,9 @@
   "Collaborator": [
    "Other domain experts"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@article{arleo2022visual, title={{Visual Exploration of Financial Data with Incremental Domain Knowledge}}, volume={42}, ISSN={1467-8659}, DOI={10.1111/cgf.14723}, number={1}, journal={Computer Graphics Forum}, publisher={Wiley}, author={Arleo, Alessio and Tsigkanos, Christos and Leite, Roger A. and Dustdar, Schahram and Miksch, Silvia and Sorger, Johannes}, year={2022}, pages={101–116} }",
   "Thumbnail": "thumbnails/C02962.png",
   "ThumbnailSource": "panels",
@@ -1042,7 +1108,7 @@
   "Venue": "IEEE Computer Graphics and Applications",
   "DOI": "10.1109/mcg.2021.3070303",
   "Link": "https://doi.org/10.1109/mcg.2021.3070303",
-  "Section": "Ecosystem Monitoring",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -1068,6 +1134,9 @@
   "Collaborator": [
    "Other domain experts"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@article{kinkeldey2022bitconduite, title={{BitConduite: Exploratory Visual Analysis of Entity Activity on the Bitcoin Network}}, volume={42}, ISSN={1558-1756}, DOI={10.1109/mcg.2021.3070303}, number={1}, journal={IEEE Computer Graphics and Applications}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Kinkeldey, Christoph and Fekete, Jean-Daniel and Blascheck, Tanja and Isenberg, Petra}, year={2022}, pages={84–94} }",
   "Thumbnail": "thumbnails/C03446.png",
   "ThumbnailSource": "panels",
@@ -1088,7 +1157,7 @@
   "Venue": "IEEE Visualization Conference (VIS)",
   "DOI": "10.1109/vis49827.2021.9623312",
   "Link": "https://doi.org/10.1109/vis49827.2021.9623312",
-  "Section": "Credit Risk and Guarantee Networks",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -1115,6 +1184,9 @@
   "Collaborator": [
    "Other domain experts"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@inproceedings{liu2021inspecting, title={{Inspecting the Process of Bank Credit Rating via Visual Analytics}}, DOI={10.1109/vis49827.2021.9623312}, booktitle={2021 IEEE Visualization Conference (VIS)}, publisher={IEEE}, author={Liu, Qiangqiang and Li, Quan and Zhu, Zhihua and Ye, Tangzhi and Ma, Xiaojuan}, year={2021}, pages={136–140} }",
   "Thumbnail": "thumbnails/C03351.png",
   "ThumbnailSource": "panels",
@@ -1137,7 +1209,7 @@
   "Venue": "Journal of Computer-Aided Design & Computer Graphics",
   "DOI": "10.3724/sp.j.1089.2021.18981",
   "Link": "https://doi.org/10.3724/sp.j.1089.2021.18981",
-  "Section": "Audit, Tax Inspection, and Regulatory Reporting",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -1166,6 +1238,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@article{zhou2021medicarevis, title={{MedicareVis: a Joint Visual Analytics Approach for Anti-Fraud                         in Medical                     Insurance}}, volume={33}, ISSN={1003-9775}, DOI={10.3724/sp.j.1089.2021.18981}, number={9}, journal={Journal of Computer-Aided Design \\& Computer Graphics}, publisher={China Science Publishing & Media Ltd.}, author={Zhou, Jiehui and Zhu, Rongchen and Zhang, Wei and Lu, Junhua and Ying, Haochao and Wu, Jian and Chen, Wei}, year={2021}, pages={1311–1317} }",
   "Thumbnail": "thumbnails/C04525.png",
   "ThumbnailSource": "pdf",
@@ -1185,7 +1260,7 @@
   "Venue": "IEEE Transactions on Visualization and Computer Graphics",
   "DOI": "10.1109/tvcg.2021.3114821",
   "Link": "https://doi.org/10.1109/tvcg.2021.3114821",
-  "Section": "Ecosystem Monitoring",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -1212,6 +1287,9 @@
   ],
   "Collaborator": [
    "Other domain experts"
+  ],
+  "Community": [
+   "Visualization"
   ],
   "Bibtex": "@article{tovanich2022miningvis, title={{MiningVis: Visual Analytics of the Bitcoin Mining Economy}}, volume={28}, ISSN={2160-9306}, DOI={10.1109/tvcg.2021.3114821}, number={1}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Tovanich, Natkamon and Soulie, Nicolas and Heulot, Nicolas and Isenberg, Petra}, year={2022}, pages={868–878} }",
   "Thumbnail": "thumbnails/C03333.png",
@@ -1260,6 +1338,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Preprint"
+  ],
   "Bibtex": "@misc{niu2021regshock,\n  doi = {10.48550/ARXIV.2104.11863},\n  author = {Niu, Zhibin and Wu, Junqi and Cheng, Dawei and Zhang, Jiawan},\n  keywords = {Human-Computer Interaction (cs.HC), Social and Information Networks (cs.SI), Risk Management (q-fin.RM), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Economics and business, FOS: Economics and business},\n  title = {{Regshock: Interactive Visual Analytics of Systemic Risk in Financial Networks}},\n  publisher = {arXiv},\n  year = {2021},\n  copyright = {arXiv.org perpetual, non-exclusive license},\n  howpublished = {arXiv preprint 2104.11863}\n}",
   "Thumbnail": "thumbnails/C03314.png",
   "ThumbnailSource": "panels",
@@ -1278,7 +1359,7 @@
   "Venue": "",
   "DOI": "10.2139/ssrn.3592564",
   "Link": "https://doi.org/10.2139/ssrn.3592564",
-  "Section": "Anti-Money Laundering",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -1303,6 +1384,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@misc{dicastri2020aml, title={{An AML SupTech Solution for the Mexican National Banking and Securities Commission (CNBV) - R2A Project Retrospective and Lessons Learned}}, DOI={10.2139/ssrn.3592564}, publisher={Elsevier BV}, author={Di Castri, Simone and Grasser, Matt and Kulenkampff, Arend}, year={2020},\n  howpublished = {SSRN working paper}\n}",
   "Thumbnail": "thumbnails/C03659.png",
   "ThumbnailSource": "pdf",
@@ -1321,7 +1405,7 @@
   "Venue": "Pacific-Basin Finance Journal",
   "DOI": "10.1016/j.pacfin.2019.101255",
   "Link": "https://doi.org/10.1016/j.pacfin.2019.101255",
-  "Section": "Systemic Risk and Contagion",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -1347,6 +1431,9 @@
   "Collaborator": [
    "None reported"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@article{dungey2020crisis, title={{Crisis transmission: Visualizing vulnerability}}, volume={59}, ISSN={0927-538X}, DOI={10.1016/j.pacfin.2019.101255}, journal={Pacific-Basin Finance Journal}, publisher={Elsevier BV}, author={Dungey, Mardi and Islam, Raisul and Volkov, Vladimir}, year={2020}, pages={101255} }",
   "Thumbnail": "thumbnails/C03629.png",
   "ThumbnailSource": "pdf",
@@ -1371,7 +1458,7 @@
   "Venue": "CHI Conference on Human Factors in Computing Systems",
   "DOI": "10.1145/3313831.3376140",
   "Link": "https://doi.org/10.1145/3313831.3376140",
-  "Section": "Fraud Detection and Transaction Monitoring",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -1398,6 +1485,9 @@
   "Collaborator": [
    "Financial institutions"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@inproceedings{sun2020fdhelper, series={CHI ’20}, title={{FDHelper: Assist Unsupervised Fraud Detection Experts with Interactive Feature Selection and Evaluation}}, DOI={10.1145/3313831.3376140}, booktitle={Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems}, publisher={ACM}, author={Sun, Jiao and Li, Yin and Chen, Charley and Lee, Jihae and Liu, Xin and Zhang, Zhongping and Huang, Ling and Shi, Lei and Xu, Wei}, year={2020}, pages={1–12}, collection={CHI ’20} }",
   "Thumbnail": "thumbnails/C03607.png",
   "ThumbnailSource": "panels",
@@ -1418,7 +1508,7 @@
   "Venue": "IEEE Conference on Visual Analytics Science and Technology (VAST)",
   "DOI": "10.1109/vast50239.2020.00013",
   "Link": "https://doi.org/10.1109/vast50239.2020.00013",
-  "Section": "Credit Risk and Guarantee Networks",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -1447,6 +1537,9 @@
    "Regulators and public authorities",
    "Financial institutions"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@inproceedings{niu2020iconviz, title={{iConViz: Interactive Visual Exploration of the Default Contagion Risk of Networked-Guarantee Loans}}, DOI={10.1109/vast50239.2020.00013}, booktitle={2020 IEEE Conference on Visual Analytics Science and Technology (VAST)}, publisher={IEEE}, author={Niu, Zhibin and Li, Runlin and Wu, Junqi and Cheng, Dawei and Zhang, Jiawan}, year={2020}, pages={84–94} }",
   "Thumbnail": "thumbnails/C03499.png",
   "ThumbnailSource": "panels",
@@ -1467,7 +1560,7 @@
   "Venue": "Computer Graphics Forum",
   "DOI": "10.1111/cgf.14042",
   "Link": "https://doi.org/10.1111/cgf.14042",
-  "Section": "Fraud Detection and Transaction Monitoring",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -1496,6 +1589,9 @@
   "Collaborator": [
    "Financial institutions"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@article{aleite2020neva, title={{NEVA: Visual Analytics to Identify Fraudulent Networks}}, volume={39}, ISSN={1467-8659}, DOI={10.1111/cgf.14042}, number={6}, journal={Computer Graphics Forum}, publisher={Wiley}, author={A. Leite, Roger and Gschwandtner, Theresia and Miksch, Silvia and Gstrein, Erich and Kuntner, Johannes}, year={2020}, pages={344–359} }",
   "Thumbnail": "thumbnails/C03571.png",
   "ThumbnailSource": "pdf",
@@ -1521,7 +1617,7 @@
   "Venue": "Frontiers of Information Technology & Electronic Engineering",
   "DOI": "10.1631/fitee.1900532",
   "Link": "https://doi.org/10.1631/fitee.1900532",
-  "Section": "Ecosystem Monitoring",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -1551,6 +1647,9 @@
    "Regulators and public authorities",
    "Other domain experts"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@article{xia2020supoolvisor, title={{SuPoolVisor: a visual analytics system for mining pool surveillance}}, volume={21}, ISSN={2095-9230}, DOI={10.1631/fitee.1900532}, number={4}, journal={Frontiers of Information Technology \\& Electronic Engineering}, publisher={Zhejiang University Press}, author={Xia, Jia-zhi and Zhang, Yu-hong and Ye, Hui and Wang, Ying and Jiang, Guang and Zhao, Ying and Xie, Cong and Kui, Xiao-yan and Liao, Sheng-hui and Wang, Wei-ping}, year={2020}, pages={507–523} }",
   "Thumbnail": "thumbnails/C03533.png",
   "ThumbnailSource": "panels",
@@ -1573,7 +1672,7 @@
   "Venue": "IEEE Transactions on Visualization and Computer Graphics",
   "DOI": "10.1109/tvcg.2020.3030370",
   "Link": "https://doi.org/10.1109/tvcg.2020.3030370",
-  "Section": "Audit, Tax Inspection, and Regulatory Reporting",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -1601,6 +1700,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@article{lin2021taxthemis, title={{TaxThemis: Interactive Mining and Exploration of Suspicious Tax Evasion Groups}}, volume={27}, ISSN={2160-9306}, DOI={10.1109/tvcg.2020.3030370}, number={2}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Lin, Yating and Wong, Kamkwai and Wang, Yong and Zhang, Rong and Dong, Bo and Qu, Huamin and Zheng, Qinghua}, year={2021}, pages={849–859} }",
   "Thumbnail": "thumbnails/C04522.png",
   "ThumbnailSource": "panels",
@@ -1618,7 +1720,7 @@
   "Venue": "International Journal of Accounting Information Systems",
   "DOI": "10.1016/j.accinf.2019.06.001",
   "Link": "https://doi.org/10.1016/j.accinf.2019.06.001",
-  "Section": "Anti-Money Laundering",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -1645,6 +1747,9 @@
    "Financial institutions",
    "Auditors"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@article{singh2019anti, title={{Anti-Money Laundering: Using data visualization to identify suspicious activity}}, volume={34}, ISSN={1467-0895}, DOI={10.1016/j.accinf.2019.06.001}, journal={International Journal of Accounting Information Systems}, publisher={Elsevier BV}, author={Singh, Kishore and Best, Peter}, year={2019}, pages={100418} }",
   "Thumbnail": "thumbnails/C03818.png",
   "ThumbnailSource": "pdf",
@@ -1661,7 +1766,7 @@
   "Venue": "Proceedings of the ... Annual Hawaii International Conference on System Sciences/Proceedings of the Annual Hawaii International Conference on System Sciences",
   "DOI": "10.24251/hicss.2019.129",
   "Link": "https://doi.org/10.24251/hicss.2019.129",
-  "Section": "Audit, Tax Inspection, and Regulatory Reporting",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -1686,6 +1791,9 @@
   "Collaborator": [
    "None reported"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@inproceedings{werner2019materiality, series={HICSS}, title={{Materiality Maps – Process Mining Data Visualization for Financial Audits}}, ISSN={2572-6862}, DOI={10.24251/hicss.2019.129}, booktitle={Proceedings of the 52nd Hawaii International Conference on System Sciences}, publisher={Hawaii International Conference on System Sciences}, author={Werner, Michael}, year={2019}, collection={HICSS} }",
   "Thumbnail": "thumbnails/C03748.png",
   "ThumbnailSource": "panels",
@@ -1704,7 +1812,7 @@
   "Venue": "Empirical Economics",
   "DOI": "10.1007/s00181-021-02135-y",
   "Link": "https://doi.org/10.1007/s00181-021-02135-y",
-  "Section": "Systemic Risk and Contagion",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -1732,6 +1840,9 @@
   "Collaborator": [
    "None reported"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@article{tafakori2021measuring, title={{Measuring systemic risk and contagion in the European financial network}}, volume={63}, ISSN={1435-8921}, DOI={10.1007/s00181-021-02135-y}, number={1}, journal={Empirical Economics}, publisher={Springer Science and Business Media LLC}, author={Tafakori, Laleh and Pourkhanali, Armin and Rastelli, Riccardo}, year={2021}, pages={345–389} }",
   "Thumbnail": "thumbnails/C03746.png",
   "ThumbnailSource": "pdf",
@@ -1754,7 +1865,7 @@
   "Venue": "IEEE Transactions on Visualization and Computer Graphics",
   "DOI": "10.1109/tvcg.2019.2934609",
   "Link": "https://doi.org/10.1109/tvcg.2019.2934609",
-  "Section": "Fraud Detection and Transaction Monitoring",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -1781,6 +1892,9 @@
   "Collaborator": [
    "Financial institutions"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@article{nguyen2020vasabi, title={{VASABI: Hierarchical User Profiles for Interactive Visual User Behaviour Analytics}}, volume={26}, ISSN={2160-9306}, DOI={10.1109/tvcg.2019.2934609}, number={1}, journal={IEEE Transactions on Visualization and Computer Graphics}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Nguyen, Phong H. and Henkin, Rafael and Chen, Siming and Andrienko, Natalia and Andrienko, Gennady and Thonnard, Olivier and Turkay, Cagatay}, year={2020}, pages={77–86} }",
   "Thumbnail": "thumbnails/C04524.png",
   "ThumbnailSource": "pdf",
@@ -1801,7 +1915,7 @@
   "Venue": "Information Sciences",
   "DOI": "10.1016/j.ins.2019.07.097",
   "Link": "https://doi.org/10.1016/j.ins.2019.07.097",
-  "Section": "Audit, Tax Inspection, and Regulatory Reporting",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -1831,6 +1945,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@article{didimo2019visual, title={{Visual querying and analysis of temporal fiscal networks}}, volume={505}, ISSN={0020-0255}, DOI={10.1016/j.ins.2019.07.097}, journal={Information Sciences}, publisher={Elsevier BV}, author={Didimo, Walter and Grilli, Luca and Liotta, Giuseppe and Montecchiani, Fabrizio and Pagliuca, Daniele}, year={2019}, pages={406–421} }",
   "Thumbnail": "thumbnails/C03696.png",
   "ThumbnailSource": "pdf",
@@ -1847,7 +1964,7 @@
   "Venue": "Accounting, Organizations and Society",
   "DOI": "10.1016/j.aos.2019.01.001",
   "Link": "https://doi.org/10.1016/j.aos.2019.01.001",
-  "Section": "Financial Stability Monitoring and Early Warning",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -1873,6 +1990,9 @@
   "Collaborator": [
    "None reported"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@article{kinsella2019visualising, title={{Visualising economic crises using accounting models}}, volume={75}, ISSN={0361-3682}, DOI={10.1016/j.aos.2019.01.001}, journal={Accounting, Organizations and Society}, publisher={Elsevier BV}, author={Kinsella, Stephen}, year={2019}, pages={1–16} }",
   "Thumbnail": "thumbnails/C03694.png",
   "ThumbnailSource": "pdf",
@@ -1891,7 +2011,7 @@
   "Venue": "RePEc: Research Papers in Economics",
   "DOI": "10.2139/ssrn.3160804",
   "Link": "https://doi.org/10.2139/ssrn.3160804",
-  "Section": "Financial Stability Monitoring and Early Warning",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -1917,6 +2037,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@misc{venditti2018risk, title={{A Risk Dashboard for the Italian Economy}}, ISSN={1556-5068}, DOI={10.2139/ssrn.3160804}, publisher={Elsevier BV}, author={Venditti, Fabrizio and Columba, Francesco and Sorrentino, Alberto Maria}, year={2018},\n  howpublished = {SSRN working paper}\n}",
   "Thumbnail": "thumbnails/C03958.png",
   "ThumbnailSource": "panels",
@@ -1937,7 +2060,7 @@
   "Venue": "Decision Support Systems",
   "DOI": "10.1016/j.dss.2018.03.008",
   "Link": "https://doi.org/10.1016/j.dss.2018.03.008",
-  "Section": "Audit, Tax Inspection, and Regulatory Reporting",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -1965,6 +2088,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@article{didimo2018visual, title={{A visual analytics system to support tax evasion discovery}}, volume={110}, ISSN={0167-9236}, DOI={10.1016/j.dss.2018.03.008}, journal={Decision Support Systems}, publisher={Elsevier BV}, author={Didimo, Walter and Giamminonni, Luca and Liotta, Giuseppe and Montecchiani, Fabrizio and Pagliuca, Daniele}, year={2018}, pages={71–83} }",
   "Thumbnail": "thumbnails/C04528.png",
   "ThumbnailSource": "pdf",
@@ -1987,7 +2113,7 @@
   "Venue": "IEEE Transactions on Visualization and Computer Graphics",
   "DOI": "10.1109/tvcg.2018.2864814",
   "Link": "https://doi.org/10.1109/tvcg.2018.2864814",
-  "Section": "Ecosystem Monitoring",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -2015,7 +2141,10 @@
   "Collaborator": [
    "Other domain experts"
   ],
-  "Bibtex": "@article{yue2018bitextract,\n  title={Bitextract: Interactive visualization for extracting bitcoin exchange intelligence},\n  author={Yue, Xuanwu and Shu, Xinhuan and Zhu, Xinyu and Du, Xinnan and Yu, Zheqing and Papadopoulos, Dimitrios and Liu, Siyuan},\n  journal={IEEE transactions on visualization and computer graphics},\n  volume={25},\n  number={1},\n  pages={162--171},\n  year={2018},\n  publisher={IEEE}\n}",
+  "Community": [
+   "Visualization"
+  ],
+  "Bibtex": "@article{yue2018bitextract,\n  title={Bitextract: Interactive visualization for extracting bitcoin exchange intelligence},\n  author={Yue, Xuanwu and Shu, Xinhuan and Zhu, Xinyu and Du, Xinnan and Yu, Zheqing and Papadopoulos, Dimitrios and Liu, Siyuan},\n  journal={IEEE transactions on visualization and computer graphics},\n  volume={25},\n  number={1},\n  pages={162--171},\n  year={2018},\n  publisher={IEEE},\n  doi = {10.1109/TVCG.2018.2864814}\n}",
   "Thumbnail": "thumbnails/C03943.png",
   "ThumbnailSource": "panels",
   "ThumbnailFigure": "Fig. 1"
@@ -2039,7 +2168,7 @@
   "Venue": "IEEE Pacific Visualization Symposium",
   "DOI": "10.1109/pacificvis.2018.00029",
   "Link": "https://doi.org/10.1109/pacificvis.2018.00029",
-  "Section": "Fraud Detection and Transaction Monitoring",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -2067,6 +2196,9 @@
   "Collaborator": [
    "Financial institutions"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@inproceedings{sun2018fraudvis, title={{FraudVis: Understanding Unsupervised Fraud Detection Algorithms}}, DOI={10.1109/pacificvis.2018.00029}, booktitle={2018 IEEE Pacific Visualization Symposium (PacificVis)}, publisher={IEEE}, author={Sun, Jiao and Zhu, Qixin and Liu, Zhifei and Liu, Xin and Lee, Jihae and Su, Zhigang and Shi, Lei and Huang, Ling and Xu, Wei}, year={2018}, pages={170–174} }",
   "Thumbnail": "thumbnails/C03915.png",
   "ThumbnailSource": "pdf",
@@ -2087,7 +2219,7 @@
   "Venue": "Social Science Research Network",
   "DOI": "10.2139/ssrn.3723344",
   "Link": "https://doi.org/10.2139/ssrn.3723344",
-  "Section": "Financial Stability Monitoring and Early Warning | Systemic Risk and Contagion",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -2112,6 +2244,9 @@
   ],
   "Collaborator": [
    "Regulators and public authorities"
+  ],
+  "Community": [
+   "Finance, economics and accounting"
   ],
   "Bibtex": "@misc{alfranseder2018indicators, title={{Indicators for the Monitoring of Central Counterparties in the EU}}, ISSN={1556-5068}, DOI={10.2139/ssrn.3723344}, publisher={Elsevier BV}, author={Alfranseder, Emanuel and Fiedor, Pawel and Lapschies, Sarah and Orszaghova, Lucia and Sobolewski, Paweł}, year={2018},\n  howpublished = {SSRN working paper}\n}",
   "Thumbnail": "thumbnails/C03905.png",
@@ -2160,7 +2295,7 @@
   "Venue": "Econstor (Econstor)",
   "DOI": "10.2866/02958",
   "Link": "https://doi.org/10.2866/02958",
-  "Section": "Financial Stability Monitoring and Early Warning",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -2186,6 +2321,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@techreport{budnik2018systemic,\n  author = {{ECB Task Force on Systemic Liquidity}},\n  title = {{Systemic liquidity concept, measurement and macroprudential instruments}},\n  institution = {European Central Bank},\n  number = {Occasional Paper No. 214},\n  year = {2018},\n  doi = {10.2866/02958}\n}",
   "Thumbnail": "thumbnails/C03866.png",
   "ThumbnailSource": "pdf",
@@ -2205,7 +2343,7 @@
   "Venue": "IEEE Pacific Visualization Symposium",
   "DOI": "10.1109/pacificvis.2018.00028",
   "Link": "https://doi.org/10.1109/pacificvis.2018.00028",
-  "Section": "Credit Risk and Guarantee Networks",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -2235,7 +2373,10 @@
    "Regulators and public authorities",
    "Financial institutions"
   ],
-  "Bibtex": "@inproceedings{niu2018visual,\n  title={Visual analytics for networked-guarantee loans risk management},\n  author={Niu, Zhibin and Cheng, Dawei and Zhang, Liqing and Zhang, Jiawan},\n  booktitle={Pacific Visualization Symposium (PacificVis), 2018 IEEE},\n  pages={160--169},\n  year={2018},\n  organization={IEEE}\n}",
+  "Community": [
+   "Visualization"
+  ],
+  "Bibtex": "@inproceedings{niu2018visual,\n  title={Visual analytics for networked-guarantee loans risk management},\n  author={Niu, Zhibin and Cheng, Dawei and Zhang, Liqing and Zhang, Jiawan},\n  booktitle={Pacific Visualization Symposium (PacificVis), 2018 IEEE},\n  pages={160--169},\n  year={2018},\n  organization={IEEE},\n  doi = {10.1109/PACIFICVIS.2018.00028}\n}",
   "Thumbnail": "thumbnails/C03851.png",
   "ThumbnailSource": "panels",
   "ThumbnailFigure": "Fig. 3"
@@ -2252,7 +2393,7 @@
   "Venue": "APWG Symposium on Electronic Crime Research (eCrime)",
   "DOI": "10.1109/ecrime.2017.7945049",
   "Link": "https://doi.org/10.1109/ecrime.2017.7945049",
-  "Section": "Illicit Fund Tracing on Blockchains",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -2274,6 +2415,9 @@
   ],
   "Collaborator": [
    "Law enforcement"
+  ],
+  "Community": [
+   "Other computing"
   ],
   "Bibtex": "@inproceedings{kuzuno2017blockchain, title={{Blockchain explorer: An analytical process and investigation environment for bitcoin}}, DOI={10.1109/ecrime.2017.7945049}, booktitle={2017 APWG Symposium on Electronic Crime Research (eCrime)}, publisher={IEEE}, author={Kuzuno, Hiroki and Karam, Christian}, year={2017}, pages={9–16} }",
   "Thumbnail": "thumbnails/C04024.png",
@@ -2297,7 +2441,7 @@
   "Venue": "IEEE Transactions on Visualization and Computer Graphics",
   "DOI": "10.1109/tvcg.2017.2744758",
   "Link": "https://doi.org/10.1109/tvcg.2017.2744758",
-  "Section": "Fraud Detection and Transaction Monitoring",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -2323,7 +2467,10 @@
   "Collaborator": [
    "Financial institutions"
   ],
-  "Bibtex": "@article{leite2017eva,\n  title={Eva: Visual analytics to identify fraudulent events},\n  author={Leite, Roger A and Gschwandtner, Theresia and Miksch, Silvia and Kriglstein, Simone and Pohl, Margit and Gstrein, Erich and Kuntner, Johannes},\n  journal={IEEE transactions on visualization and computer graphics},\n  volume={24},\n  number={1},\n  pages={330--339},\n  year={2017},\n  publisher={IEEE}\n}",
+  "Community": [
+   "Visualization"
+  ],
+  "Bibtex": "@article{leite2017eva,\n  title={Eva: Visual analytics to identify fraudulent events},\n  author={Leite, Roger A and Gschwandtner, Theresia and Miksch, Silvia and Kriglstein, Simone and Pohl, Margit and Gstrein, Erich and Kuntner, Johannes},\n  journal={IEEE transactions on visualization and computer graphics},\n  volume={24},\n  number={1},\n  pages={330--339},\n  year={2017},\n  publisher={IEEE},\n  doi = {10.1109/TVCG.2017.2744758}\n}",
   "Thumbnail": "thumbnails/C04006.png",
   "ThumbnailSource": "panels",
   "ThumbnailFigure": "Fig. 1"
@@ -2340,7 +2487,7 @@
   "Venue": "International Conference on Availability, Reliability and Security (ARES)",
   "DOI": "10.1145/3098954.3098972",
   "Link": "https://doi.org/10.1145/3098954.3098972",
-  "Section": "Illicit Fund Tracing on Blockchains",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -2365,6 +2512,9 @@
   "Collaborator": [
    "None reported"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@inproceedings{bistarelli2017go, series={ARES ’17}, title={{Go with the -Bitcoin- Flow, with Visual Analytics}}, DOI={10.1145/3098954.3098972}, booktitle={Proceedings of the 12th International Conference on Availability, Reliability and Security}, publisher={ACM}, author={Bistarelli, Stefano and Santini, Francesco}, year={2017}, pages={1–6}, collection={ARES ’17} }",
   "Thumbnail": "thumbnails/C03999.png",
   "ThumbnailSource": "pdf",
@@ -2385,7 +2535,7 @@
   "Venue": "Econstor (Econstor)",
   "DOI": "10.2849/062637",
   "Link": "https://doi.org/10.2849/062637",
-  "Section": "Financial Stability Monitoring and Early Warning",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -2410,6 +2560,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@techreport{grilletaubert2016assessing,\n  author = {Laurent Grillet-Aubert and Jean-Baptiste Haquin and Clive Jackson and Neill Killeen and Christian Weistroffer},\n  title = {{Assessing shadow banking – non-bank financial intermediation in Europe}},\n  institution = {European Systemic Risk Board},\n  number = {Occasional Paper No. 10},\n  year = {2016},\n  doi = {10.2849/062637}\n}",
   "Thumbnail": "thumbnails/C04079.png",
   "ThumbnailSource": "pdf",
@@ -2426,7 +2579,7 @@
   "Venue": "Journal of Financial Stability",
   "DOI": "10.1016/j.jfs.2015.12.005",
   "Link": "https://doi.org/10.1016/j.jfs.2015.12.005",
-  "Section": "Macroprudential Oversight | Financial Stability Monitoring and Early Warning",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -2452,7 +2605,10 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
-  "Bibtex": "@article{sarlin2016macroprudential,\n  title={Macroprudential oversight, risk communication and visualization},\n  author={Sarlin, Peter},\n  journal={Journal of Financial Stability},\n  volume={27},\n  pages={160--179},\n  year={2016},\n  publisher={Elsevier}\n}",
+  "Community": [
+   "Finance, economics and accounting"
+  ],
+  "Bibtex": "@article{sarlin2016macroprudential,\n  title={Macroprudential oversight, risk communication and visualization},\n  author={Sarlin, Peter},\n  journal={Journal of Financial Stability},\n  volume={27},\n  pages={160--179},\n  year={2016},\n  publisher={Elsevier},\n  doi = {10.1016/j.jfs.2015.12.005}\n}",
   "Thumbnail": "thumbnails/C04057.png",
   "ThumbnailSource": "pdf",
   "ThumbnailFigure": "Fig. 1"
@@ -2468,7 +2624,7 @@
   "Venue": "SSRN Electronic Journal",
   "DOI": "10.2139/ssrn.2886167",
   "Link": "https://doi.org/10.2139/ssrn.2886167",
-  "Section": "Systemic Risk and Contagion",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -2494,6 +2650,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@misc{huang2016systemic, title={{Systemic Risk in Real Time: A Risk Dashboard for Central Clearing Parties (CCPs)}}, ISSN={1556-5068}, DOI={10.2139/ssrn.2886167}, publisher={Elsevier BV}, author={Huang, Wenqian}, year={2016},\n  howpublished = {SSRN working paper}\n}",
   "Thumbnail": "thumbnails/C04043.png",
   "ThumbnailSource": "pdf",
@@ -2513,7 +2672,7 @@
   "Venue": "Journal of Financial Stability",
   "DOI": "10.1016/j.jfs.2016.01.006",
   "Link": "https://doi.org/10.1016/j.jfs.2016.01.006",
-  "Section": "Financial Stability Monitoring and Early Warning",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -2541,6 +2700,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@article{FLOOD2016180,\ntitle = \"The application of visual analytics to financial stability monitoring\",\njournal = \"Journal of Financial Stability\",\nvolume = \"27\",\npages = \"180 - 197\",\nyear = \"2016\",\nissn = \"1572-3089\",\ndoi = \"https://doi.org/10.1016/j.jfs.2016.01.006\",\nurl = \"http://www.sciencedirect.com/science/article/pii/S1572308916000073\",\nauthor = \"Mark D. Flood and Victoria L. Lemieux and Margaret Varga and B.L. William Wong\",\nkeywords = \"Financial stability, Macroprudential supervision, Monitoring, Systemic risk, Visual analytics\"\n}",
   "Thumbnail": "thumbnails/C04040.png",
   "ThumbnailSource": "pdf",
@@ -2562,7 +2724,7 @@
   "Venue": "Big Data",
   "DOI": "10.1089/big.2015.0056",
   "Link": "https://doi.org/10.1089/big.2015.0056",
-  "Section": "Illicit Fund Tracing on Blockchains",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -2589,7 +2751,10 @@
   "Collaborator": [
    "None reported"
   ],
-  "Bibtex": "@article{mcginn2016visualizing,\n  title={Visualizing dynamic bitcoin transaction patterns},\n  author={McGinn, Dan and Birch, David and Akroyd, David and Molina-Solana, Miguel and Guo, Yike and Knottenbelt, William J},\n  journal={Big data},\n  volume={4},\n  number={2},\n  pages={109--119},\n  year={2016},\n  publisher={Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801 USA}\n}",
+  "Community": [
+   "Other computing"
+  ],
+  "Bibtex": "@article{mcginn2016visualizing,\n  title={Visualizing dynamic bitcoin transaction patterns},\n  author={McGinn, Dan and Birch, David and Akroyd, David and Molina-Solana, Miguel and Guo, Yike and Knottenbelt, William J},\n  journal={Big data},\n  volume={4},\n  number={2},\n  pages={109--119},\n  year={2016},\n  publisher={Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801 USA},\n  doi = {10.1089/big.2015.0056}\n}",
   "Thumbnail": "thumbnails/C04032.png",
   "ThumbnailSource": "pdf",
   "ThumbnailFigure": "Fig. 4"
@@ -2606,7 +2771,7 @@
   "Venue": "Quantitative Finance",
   "DOI": "10.1080/14697688.2015.1071076",
   "Link": "https://doi.org/10.1080/14697688.2015.1071076",
-  "Section": "Systemic Risk and Contagion",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -2632,7 +2797,10 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
-  "Bibtex": "@article{ronnqvist2015bank,\n  title={Bank networks from text: interrelations, centrality and determinants},\n  author={R{\\\"o}nnqvist, Samuel and Sarlin, Peter},\n  journal={Quantitative Finance},\n  volume={15},\n  number={10},\n  pages={1619--1635},\n  year={2015},\n  publisher={Taylor \\& Francis}\n}",
+  "Community": [
+   "Finance, economics and accounting"
+  ],
+  "Bibtex": "@article{ronnqvist2015bank,\n  title={Bank networks from text: interrelations, centrality and determinants},\n  author={R{\\\"o}nnqvist, Samuel and Sarlin, Peter},\n  journal={Quantitative Finance},\n  volume={15},\n  number={10},\n  pages={1619--1635},\n  year={2015},\n  publisher={Taylor \\& Francis},\n  doi = {10.1080/14697688.2015.1071076}\n}",
   "Thumbnail": "thumbnails/C04123.png",
   "ThumbnailSource": "panels",
   "ThumbnailFigure": "Fig. 6"
@@ -2653,7 +2821,7 @@
   "Venue": "IEEE Symposium on Visualization for Cyber Security (VIZSEC)",
   "DOI": "10.1109/vizsec.2015.7312773",
   "Link": "https://doi.org/10.1109/vizsec.2015.7312773",
-  "Section": "Illicit Fund Tracing on Blockchains",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -2679,7 +2847,10 @@
   "Collaborator": [
    "None reported"
   ],
-  "Bibtex": "@inproceedings{di2015bitconeview,\n  title={Bitconeview: visualization of flows in the bitcoin transaction graph},\n  author={Di Battista, Giuseppe and Di Donato, Valentino and Patrignani, Maurizio and Pizzonia, Maurizio and Roselli, Vincenzo and Tamassia, Roberto},\n  booktitle={2015 IEEE Symposium on Visualization for Cyber Security (VizSec)},\n  pages={1--8},\n  year={2015},\n  organization={IEEE}\n}",
+  "Community": [
+   "Visualization"
+  ],
+  "Bibtex": "@inproceedings{di2015bitconeview,\n  title={Bitconeview: visualization of flows in the bitcoin transaction graph},\n  author={Di Battista, Giuseppe and Di Donato, Valentino and Patrignani, Maurizio and Pizzonia, Maurizio and Roselli, Vincenzo and Tamassia, Roberto},\n  booktitle={2015 IEEE Symposium on Visualization for Cyber Security (VizSec)},\n  pages={1--8},\n  year={2015},\n  organization={IEEE},\n  doi = {10.1109/VIZSEC.2015.7312773}\n}",
   "Thumbnail": "thumbnails/C04119.png",
   "ThumbnailSource": "panels",
   "ThumbnailFigure": "Fig. 1"
@@ -2696,7 +2867,7 @@
   "Venue": "International Journal of Accounting Information Systems",
   "DOI": "10.1016/j.accinf.2015.01.001",
   "Link": "https://doi.org/10.1016/j.accinf.2015.01.001",
-  "Section": "Audit, Tax Inspection, and Regulatory Reporting",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -2724,6 +2895,9 @@
   "Collaborator": [
    "Auditors"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@article{dilla2015data, title={{Data visualization for fraud detection: Practice implications and a call for future research}}, volume={16}, ISSN={1467-0895}, DOI={10.1016/j.accinf.2015.01.001}, journal={International Journal of Accounting Information Systems}, publisher={Elsevier BV}, author={Dilla, William N. and Raschke, Robyn L.}, year={2015}, pages={1–22} }",
   "Thumbnail": "thumbnails/C04114.png",
   "ThumbnailSource": "pdf",
@@ -2741,7 +2915,7 @@
   "Venue": "Managerial Auditing Journal",
   "DOI": "10.1108/maj-10-2014-1117",
   "Link": "https://doi.org/10.1108/maj-10-2014-1117",
-  "Section": "Audit, Tax Inspection, and Regulatory Reporting",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -2771,6 +2945,9 @@
   "Collaborator": [
    "Auditors"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@article{singh2016interactive, title={{Interactive visual analysis of anomalous accounts payable transactions in SAP enterprise systems}}, volume={31}, ISSN={0268-6902}, DOI={10.1108/maj-10-2014-1117}, number={1}, journal={Managerial Auditing Journal}, publisher={Emerald}, author={Singh, Kishore and Best, Peter}, editor={Prof. Graham Gal, Assoc.}, year={2016}, pages={35–63} }",
   "Thumbnail": "thumbnails/C04104.png",
   "ThumbnailSource": "panels",
@@ -2791,7 +2968,7 @@
   "Venue": "IEEE Conference on Visual Analytics Science and Technology (VAST)",
   "DOI": "10.1109/vast.2015.7347678",
   "Link": "https://doi.org/10.1109/vast.2015.7347678",
-  "Section": "Fraud Detection and Transaction Monitoring",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -2817,6 +2994,9 @@
   "Collaborator": [
    "None reported"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@inproceedings{leite2015visual, title={{Visual Analytics for fraud detection and monitoring}}, DOI={10.1109/vast.2015.7347678}, booktitle={2015 IEEE Conference on Visual Analytics Science and Technology (VAST)}, publisher={IEEE}, author={Leite, Roger A. and Gschwandtner, Theresia and Miksch, Silvia and Gstrein, Erich and Kuntner, Johannes}, year={2015}, pages={201–202} }",
   "Thumbnail": "thumbnails/C04089.png",
   "ThumbnailSource": "pdf",
@@ -2837,7 +3017,7 @@
   "Venue": "IFIP advances in information and communication technology",
   "DOI": "10.1007/978-3-642-55415-5_32",
   "Link": "https://doi.org/10.1007/978-3-642-55415-5_32",
-  "Section": "Fraud Detection and Transaction Monitoring",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -2863,6 +3043,9 @@
   "Collaborator": [
    "Financial institutions"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@inbook{carminati2014banksealer, title={{BankSealer: An Online Banking Fraud Analysis and Decision Support System}}, ISBN={9783642554155}, ISSN={1868-422X}, DOI={10.1007/978-3-642-55415-5_32}, booktitle={ICT Systems Security and Privacy Protection}, publisher={Springer Berlin Heidelberg}, author={Carminati, Michele and Caron, Roberto and Maggi, Federico and Epifani, Ilenia and Zanero, Stefano}, year={2014}, pages={380–394} }",
   "Thumbnail": "thumbnails/C04184.png",
   "ThumbnailSource": "pdf",
@@ -2882,7 +3065,7 @@
   "Venue": "",
   "DOI": "10.2139/ssrn.2416821",
   "Link": "https://doi.org/10.2139/ssrn.2416821",
-  "Section": "Systemic Risk and Contagion",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -2907,7 +3090,10 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
-  "Bibtex": "@article{Heijmans2014Dynamic,\n  title={Dynamic Visualization of Large Transaction Networks: The Daily Dutch Overnight Money Market},\n  author={Heijmans, Ronald and Heuver, Richard and Levallois, Clement and Van Lelyveld, Iman},\n  journal={Social Science Electronic Publishing},\n  year={2014},\n}",
+  "Community": [
+   "Finance, economics and accounting"
+  ],
+  "Bibtex": "@article{Heijmans2014Dynamic,\n  title={Dynamic Visualization of Large Transaction Networks: The Daily Dutch Overnight Money Market},\n  author={Heijmans, Ronald and Heuver, Richard and Levallois, Clement and Van Lelyveld, Iman},\n  journal={Social Science Electronic Publishing},\n  year={2014},\n  doi = {10.2139/ssrn.2416821}\n}",
   "Thumbnail": "thumbnails/C04177.png",
   "ThumbnailSource": "panels",
   "ThumbnailFigure": "Video 1 (still)"
@@ -2925,7 +3111,7 @@
   "Venue": "Journal of Visual Languages & Computing",
   "DOI": "10.1016/j.jvlc.2014.01.002",
   "Link": "https://doi.org/10.1016/j.jvlc.2014.01.002",
-  "Section": "Anti-Money Laundering",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -2954,6 +3140,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@article{didimo2014network, title={{Network visualization for financial crime detection}}, volume={25}, ISSN={1045-926X}, DOI={10.1016/j.jvlc.2014.01.002}, number={4}, journal={Journal of Visual Languages \\& Computing}, publisher={Elsevier BV}, author={Didimo, Walter and Liotta, Giuseppe and Montecchiani, Fabrizio}, year={2014}, pages={433–451} }",
   "Thumbnail": "thumbnails/C04532.png",
   "ThumbnailSource": "pdf",
@@ -2975,7 +3164,7 @@
   "Venue": "IEEE Transactions on Visualization and Computer Graphics",
   "DOI": "10.1109/tvcg.2014.2346913",
   "Link": "https://doi.org/10.1109/tvcg.2014.2346913",
-  "Section": "Fraud Detection and Transaction Monitoring | Supervision of Emerging Finance",
+  "Section": "",
   "Level": [
    "Supervision of emerging finance"
   ],
@@ -3003,7 +3192,10 @@
   "Collaborator": [
    "Financial institutions"
   ],
-  "Bibtex": "@article{xie2014vaet,\n  title={VAET: A visual analytics approach for e-transactions time-series},\n  author={Xie, Cong and Chen, Wei and Huang, Xinxin and Hu, Yueqi and Barlowe, Scott and Yang, Jing},\n  journal={IEEE transactions on visualization and computer graphics},\n  volume={20},\n  number={12},\n  pages={1743--1752},\n  year={2014},\n  publisher={IEEE}\n}",
+  "Community": [
+   "Visualization"
+  ],
+  "Bibtex": "@article{xie2014vaet,\n  title={VAET: A visual analytics approach for e-transactions time-series},\n  author={Xie, Cong and Chen, Wei and Huang, Xinxin and Hu, Yueqi and Barlowe, Scott and Yang, Jing},\n  journal={IEEE transactions on visualization and computer graphics},\n  volume={20},\n  number={12},\n  pages={1743--1752},\n  year={2014},\n  publisher={IEEE},\n  doi = {10.1109/TVCG.2014.2346913}\n}",
   "Thumbnail": "thumbnails/C04521.png",
   "ThumbnailSource": "pdf",
   "ThumbnailFigure": "Fig. 1"
@@ -3023,7 +3215,7 @@
   "Venue": "IEEE International Conference on Big Data (BigData)",
   "DOI": "10.1109/bigdata.2014.7004297",
   "Link": "https://doi.org/10.1109/bigdata.2014.7004297",
-  "Section": "Market Surveillance and Manipulation",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -3050,6 +3242,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@inproceedings{todd2014visualizations, title={{Visualizations for sense-making in financial market regulation}}, DOI={10.1109/bigdata.2014.7004297}, booktitle={2014 IEEE International Conference on Big Data (Big Data)}, publisher={IEEE}, author={Todd, Andrew and Scherer, William and Beling, Peter and Paddrik, Mark and Haynes, Richard}, year={2014}, pages={730–735} }",
   "Thumbnail": "thumbnails/C04132.png",
   "ThumbnailSource": "pdf",
@@ -3066,7 +3261,7 @@
   "Venue": "Information Visualization",
   "DOI": "10.1177/1473871613504102",
   "Link": "https://doi.org/10.1177/1473871613504102",
-  "Section": "Credit Risk and Guarantee Networks",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -3091,6 +3286,9 @@
   "Collaborator": [
    "None reported"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@article{sarlin2013data, title={{Data and dimension reduction for visual financial performance analysis}}, volume={14}, ISSN={1473-8724}, DOI={10.1177/1473871613504102}, number={2}, journal={Information Visualization}, publisher={SAGE Publications}, author={Sarlin, Peter}, year={2013}, pages={148–167} }",
   "Thumbnail": "thumbnails/C04218.png",
   "ThumbnailSource": "placeholder",
@@ -3107,7 +3305,7 @@
   "Venue": "Pattern Recognition Letters",
   "DOI": "10.1016/j.patrec.2013.03.017",
   "Link": "https://doi.org/10.1016/j.patrec.2013.03.017",
-  "Section": "Financial Stability Monitoring and Early Warning",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -3132,6 +3330,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@article{sarlin2013decomposing, title={{Decomposing the global financial crisis: A Self-Organizing Time Map}}, volume={34}, ISSN={0167-8655}, DOI={10.1016/j.patrec.2013.03.017}, number={14}, journal={Pattern Recognition Letters}, publisher={Elsevier BV}, author={Sarlin, Peter}, year={2013}, pages={1701–1709} }",
   "Thumbnail": "thumbnails/C04217.png",
   "ThumbnailSource": "pdf",
@@ -3148,7 +3349,7 @@
   "Venue": "Engineering Applications of Artificial Intelligence",
   "DOI": "10.1016/j.engappai.2013.01.002",
   "Link": "https://doi.org/10.1016/j.engappai.2013.01.002",
-  "Section": "Financial Stability Monitoring and Early Warning",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -3175,6 +3376,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@article{sarlin2013exploiting, title={{Exploiting the self-organizing financial stability map}}, volume={26}, ISSN={0952-1976}, DOI={10.1016/j.engappai.2013.01.002}, number={5-6}, journal={Engineering Applications of Artificial Intelligence}, publisher={Elsevier BV}, author={Sarlin, Peter}, year={2013}, pages={1532–1539} }",
   "Thumbnail": "thumbnails/C04214.png",
   "ThumbnailSource": "pdf",
@@ -3196,7 +3400,7 @@
   "Venue": "Social Science Research Network",
   "DOI": "10.5089/9781484383438.001.a001",
   "Link": "https://doi.org/10.5089/9781484383438.001.a001",
-  "Section": "Financial Stability Monitoring and Early Warning",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -3221,6 +3425,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@misc{blancher2013systemic, title={{Systemic Risk Monitoring (“SysMo”) Toolkit—A User Guide}}, DOI={10.5089/9781484383438.001.a001}, publisher={International Monetary Fund (IMF)}, author={Blancher, Nicolas and Mitra, Srobona and Morsy, Hanan and Otani, Akira and Severo, Tiago and Valderrama, Laura},\n  year = {2013}\n}",
   "Thumbnail": "thumbnails/C04197.png",
   "ThumbnailSource": "pdf",
@@ -3240,7 +3447,7 @@
   "Venue": "Information Visualization",
   "DOI": "10.1177/1473871613487087",
   "Link": "https://doi.org/10.1177/1473871613487087",
-  "Section": "Systemic Risk and Contagion",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -3268,6 +3475,9 @@
   "Collaborator": [
    "None reported"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@article{vonlandesberger2013visual, title={{Visual analysis of contagion in networks}}, volume={14}, ISSN={1473-8724}, DOI={10.1177/1473871613487087}, number={2}, journal={Information Visualization}, publisher={SAGE Publications}, author={Von Landesberger, Tatiana and Diel, Simon and Bremm, Sebastian and Fellner, Dieter W}, year={2013}, pages={93–110} }",
   "Thumbnail": "thumbnails/C04192.png",
   "ThumbnailSource": "placeholder",
@@ -3287,7 +3497,7 @@
   "Venue": "Tsinghua Science & Technology",
   "DOI": "10.1109/tst.2012.6297590",
   "Link": "https://doi.org/10.1109/tst.2012.6297590",
-  "Section": "Credit Risk and Guarantee Networks",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -3317,6 +3527,9 @@
   "Collaborator": [
    "Financial institutions"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@article{wang2012riskva, title={{RiskVA: A visual analytics system for consumer credit risk analysis}}, volume={17}, ISSN={1007-0214}, DOI={10.1109/tst.2012.6297590}, number={4}, journal={Tsinghua Science and Technology}, publisher={Tsinghua University Press}, author={Wang, Xiaoyu and Jeong, Dong and Chang, Remco and Ribarsky, William}, year={2012}, pages={440–451} }",
   "Thumbnail": "thumbnails/C04244.png",
   "ThumbnailSource": "panels",
@@ -3336,7 +3549,7 @@
   "Venue": "IEEE Pacific Visualization Symposium",
   "DOI": "10.1109/pacificvis.2011.5742391",
   "Link": "https://doi.org/10.1109/pacificvis.2011.5742391",
-  "Section": "Anti-Money Laundering",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -3364,7 +3577,10 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
-  "Bibtex": "@inproceedings{didimo2011advanced,\n  title={An advanced network visualization system for financial crime detection},\n  author={Didimo, Walter and Liotta, Giuseppe and Montecchiani, Fabrizio and Palladino, Pietro},\n  booktitle={Visualization Symposium (PacificVis), 2011 IEEE Pacific},\n  pages={203--210},\n  year={2011},\n  organization={IEEE}\n}",
+  "Community": [
+   "Visualization"
+  ],
+  "Bibtex": "@inproceedings{didimo2011advanced,\n  title={An advanced network visualization system for financial crime detection},\n  author={Didimo, Walter and Liotta, Giuseppe and Montecchiani, Fabrizio and Palladino, Pietro},\n  booktitle={Visualization Symposium (PacificVis), 2011 IEEE Pacific},\n  pages={203--210},\n  year={2011},\n  organization={IEEE},\n  doi = {10.1109/PACIFICVIS.2011.5742391}\n}",
   "Thumbnail": "thumbnails/C04311.png",
   "ThumbnailSource": "panels",
   "ThumbnailFigure": "Fig. 7"
@@ -3381,7 +3597,7 @@
   "Venue": "Journal of International Financial Markets Institutions and Money",
   "DOI": "10.1016/j.intfin.2013.05.002",
   "Link": "https://doi.org/10.1016/j.intfin.2013.05.002",
-  "Section": "Financial Stability Monitoring and Early Warning",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -3406,7 +3622,10 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
-  "Bibtex": "@article{sarlin2013mapping,\n  title={Mapping the state of financial stability},\n  author={Sarlin, Peter and Peltonen, Tuomas A},\n  journal={Journal of International Financial Markets, Institutions and Money},\n  volume={26},\n  pages={46--76},\n  year={2013},\n  publisher={Elsevier}\n}",
+  "Community": [
+   "Finance, economics and accounting"
+  ],
+  "Bibtex": "@article{sarlin2013mapping,\n  title={Mapping the state of financial stability},\n  author={Sarlin, Peter and Peltonen, Tuomas A},\n  journal={Journal of International Financial Markets, Institutions and Money},\n  volume={26},\n  pages={46--76},\n  year={2013},\n  publisher={Elsevier},\n  doi = {10.1016/j.intfin.2013.05.002}\n}",
   "Thumbnail": "thumbnails/C04302.png",
   "ThumbnailSource": "panels",
   "ThumbnailFigure": "Fig. 6"
@@ -3425,7 +3644,7 @@
   "Venue": "IMF Working Paper",
   "DOI": "10.5089/9781455201280.001",
   "Link": "https://doi.org/10.5089/9781455201280.001",
-  "Section": "Financial Stability Monitoring and Early Warning",
+  "Section": "",
   "Level": [
    "Macroprudential oversight"
   ],
@@ -3452,6 +3671,9 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
+  "Community": [
+   "Finance, economics and accounting"
+  ],
   "Bibtex": "@article{puigforne2010map, title={{Can You Map Global Financial Stability?}}, volume={2010}, ISSN={1018-5941}, DOI={10.5089/9781455201280.001}, number={145}, journal={IMF Working Papers}, publisher={International Monetary Fund (IMF)}, author={Puig-Forne, Jaume and Miyajima, Ken and McCaughrin, Rebecca and Dattels, Peter}, year={2010}, pages={1} }",
   "Thumbnail": "thumbnails/C04341.png",
   "ThumbnailSource": "panels",
@@ -3471,7 +3693,7 @@
   "Venue": "International Conference on Advanced Visual Interfaces (AVI)",
   "DOI": "10.1145/1842993.1843073",
   "Link": "https://doi.org/10.1145/1842993.1843073",
-  "Section": "Anti-Money Laundering",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -3497,6 +3719,9 @@
   "Collaborator": [
    "None reported"
   ],
+  "Community": [
+   "Other computing"
+  ],
   "Bibtex": "@inproceedings{digiacomo2010visual, series={AVI ’10}, title={{Visual analysis of financial crimes: [system paper]}}, DOI={10.1145/1842993.1843073}, booktitle={Proceedings of the International Conference on Advanced Visual Interfaces}, publisher={ACM}, author={Di Giacomo, Emilio and Didimo, Walter and Liotta, Giuseppe and Palladino, Pietro}, year={2010}, pages={393–394}, collection={AVI ’10} }",
   "Thumbnail": "thumbnails/C04533.png",
   "ThumbnailSource": "pdf",
@@ -3518,7 +3743,7 @@
   "Venue": "IEEE Symposium on Visual Analytics Science and Technology (VAST)",
   "DOI": "10.1109/vast.2008.4677360",
   "Link": "https://doi.org/10.1109/vast.2008.4677360",
-  "Section": "Anti-Money Laundering",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -3543,7 +3768,10 @@
   "Collaborator": [
    "Financial institutions"
   ],
-  "Bibtex": "@inproceedings{jeong2008evaluating,\n\ttitle=\"Evaluating the relationship between user interaction and financial visual analysis\",\n\tauthor=\"Dong Hyun {Jeong} and Wenwen {Dou} and H.R. {Lipford} and F. {Stukes} and Remco {Chang} and W. {Ribarsky}\",\n\tbooktitle=\"2008 IEEE Symposium on Visual Analytics Science and Technology\",\n\tpages=\"83--90\",\n\tnotes=\"Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2082471240\",\n\tyear=\"2008\"\n}",
+  "Community": [
+   "Visualization"
+  ],
+  "Bibtex": "@inproceedings{jeong2008evaluating,\n\ttitle=\"Evaluating the relationship between user interaction and financial visual analysis\",\n\tauthor=\"Dong Hyun {Jeong} and Wenwen {Dou} and H.R. {Lipford} and F. {Stukes} and Remco {Chang} and W. {Ribarsky}\",\n\tbooktitle=\"2008 IEEE Symposium on Visual Analytics Science and Technology\",\n\tpages=\"83--90\",\n\tnotes=\"Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2082471240\",\n\tyear=\"2008\",\n  doi = {10.1109/VAST.2008.4677360}\n}",
   "Thumbnail": "thumbnails/C04389.png",
   "ThumbnailSource": "pdf",
   "ThumbnailFigure": "Fig. 1"
@@ -3561,7 +3789,7 @@
   "Venue": "Proceedings",
   "DOI": "10.1109/icdm.2008.34",
   "Link": "https://doi.org/10.1109/icdm.2008.34",
-  "Section": "Audit, Tax Inspection, and Regulatory Reporting",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -3586,6 +3814,9 @@
   ],
   "Collaborator": [
    "Regulators and public authorities"
+  ],
+  "Community": [
+   "Other computing"
   ],
   "Bibtex": "@inproceedings{denny2008redsom, title={{ReDSOM: Relative Density Visualization of Temporal Changes in Cluster Structures Using Self-Organizing Maps}}, DOI={10.1109/icdm.2008.34}, booktitle={2008 Eighth IEEE International Conference on Data Mining}, publisher={IEEE}, author={Denny and Williams, Graham J. and Christen, Peter}, year={2008}, pages={173–182} }",
   "Thumbnail": "thumbnails/C04383.png",
@@ -3612,7 +3843,7 @@
   "Venue": "Information Visualization",
   "DOI": "10.1057/palgrave.ivs.9500172",
   "Link": "https://doi.org/10.1057/palgrave.ivs.9500172",
-  "Section": "Anti-Money Laundering",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -3640,6 +3871,9 @@
   "Collaborator": [
    "Financial institutions"
   ],
+  "Community": [
+   "Visualization"
+  ],
   "Bibtex": "@article{chang2008scalable, title={{Scalable and Interactive Visual Analysis of Financial Wire Transactions for Fraud Detection}}, volume={7}, ISSN={1473-8724}, DOI={10.1057/palgrave.ivs.9500172}, number={1}, journal={Information Visualization}, publisher={SAGE Publications}, author={Chang, Remco and Lee, Alvin and Ghoniem, Mohammad and Kosara, Robert and Ribarsky, William and Yang, Jing and Suma, Evan and Ziemkiewicz, Caroline and Kern, Daniel and Sudjianto, Agus}, year={2008}, pages={63–76} }",
   "Thumbnail": "thumbnails/C04380.png",
   "ThumbnailSource": "pdf",
@@ -3664,7 +3898,7 @@
   "Venue": "IEEE Symposium on Visual Analytics Science and Technology (VAST)",
   "DOI": "10.1109/vast.2007.4389009",
   "Link": "https://doi.org/10.1109/vast.2007.4389009",
-  "Section": "Anti-Money Laundering",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -3692,7 +3926,10 @@
   "Collaborator": [
    "Financial institutions"
   ],
-  "Bibtex": "@inproceedings{chang2007wirevis,\n  title={Wirevis: Visualization of categorical, time-varying data from financial transactions},\n  author={Chang, Remco and Ghoniem, Mohammad and Kosara, Robert and Ribarsky, William and Yang, Jing and Suma, Evan and Ziemkiewicz, Caroline and Kern, Daniel and Sudjianto, Agus},\n  booktitle={Visual Analytics Science and Technology, 2007. VAST 2007. IEEE Symposium on},\n  pages={155--162},\n  year={2007},\n  organization={IEEE}\n}",
+  "Community": [
+   "Visualization"
+  ],
+  "Bibtex": "@inproceedings{chang2007wirevis,\n  title={Wirevis: Visualization of categorical, time-varying data from financial transactions},\n  author={Chang, Remco and Ghoniem, Mohammad and Kosara, Robert and Ribarsky, William and Yang, Jing and Suma, Evan and Ziemkiewicz, Caroline and Kern, Daniel and Sudjianto, Agus},\n  booktitle={Visual Analytics Science and Technology, 2007. VAST 2007. IEEE Symposium on},\n  pages={155--162},\n  year={2007},\n  organization={IEEE},\n  doi = {10.1109/VAST.2007.4389009}\n}",
   "Thumbnail": "thumbnails/C04393.png",
   "ThumbnailSource": "panels",
   "ThumbnailFigure": "Fig. 2"
@@ -3713,7 +3950,7 @@
   "Venue": "AI Magazine",
   "DOI": "10.1609/aimag.v20i1.1440",
   "Link": "https://doi.org/10.1609/aimag.v20i1.1440",
-  "Section": "Market Surveillance and Manipulation",
+  "Section": "",
   "Level": [
    "Microprudential supervision and compliance"
   ],
@@ -3738,7 +3975,10 @@
   "Collaborator": [
    "Regulators and public authorities"
   ],
-  "Bibtex": "@article{kirkland1999nasd,\n  title={The nasd regulation advanced-detection system (ads)},\n  author={Kirkland, J Dale and Senator, Ted E and Hayden, James J and Dybala, Tomasz and Goldberg, Henry G and Shyr, Ping},\n  journal={AI Magazine},\n  volume={20},\n  number={1},\n  pages={55},\n  year={1999}\n}",
+  "Community": [
+   "Other computing"
+  ],
+  "Bibtex": "@article{kirkland1999nasd,\n  title={The nasd regulation advanced-detection system (ads)},\n  author={Kirkland, J Dale and Senator, Ted E and Hayden, James J and Dybala, Tomasz and Goldberg, Henry G and Shyr, Ping},\n  journal={AI Magazine},\n  volume={20},\n  number={1},\n  pages={55},\n  year={1999},\n  doi = {10.1609/aimag.v20i1.1440}\n}",
   "Thumbnail": "thumbnails/C04540.png",
   "ThumbnailSource": "pdf",
   "ThumbnailFigure": "Fig. 4 (IAAI-98 version)"

@@ -2,7 +2,7 @@
 
 Visual bibliography of visual approaches for financial regulation and compliance, served at <http://regvis.net> through GitHub Pages.
 
-The current version (October 2026) accompanies the survey *A Survey on Visual Approaches for Financial Regulation and Compliance* and lists 80 publications from 1999 to 2026. Each publication is coded by supervisory scope, supervisory task, data, visualization, interaction, analytics, evaluation, and collaborator. The page shows a timeline, a taxonomy matrix for filtering, and a card with a thumbnail of each publication's main figure; each card opens the codes and the BibTeX entry, and the current selection can be exported as BibTeX or CSV.
+The current version (October 2026) accompanies the survey *A Survey on Visual Approaches for Financial Regulation and Compliance* and lists 80 publications from 1999 to 2026. Each publication is coded by supervisory scope, supervisory task, data, visualization, interaction, analytics, evaluation, and collaborator, and labeled with the community of its venue (visualization; finance, economics and accounting; other computing; preprint). The page shows a timeline that can be colored by scope or by venue community, a taxonomy matrix for filtering with two row perspectives (domain: scope and task; technique: visualization, interaction and analytics), and a card with a thumbnail of each publication's main figure; each card opens the codes and the BibTeX entry, and the current selection can be exported as BibTeX or CSV.
 
 ## Files
 

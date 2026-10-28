@@ -219,3 +219,11 @@ select:focus, input:focus, button:focus-visible, [tabindex]:focus-visible { outl
 #matrix .rlab, #matrix .row .box, #matrix .row .mark, #matrix .rnum, #matrix .clab, #matrix .m-all, #matrix .m-cur { pointer-events: none; }
 #matrix .ghead .hit, #matrix .thead .hit { fill: transparent; }
 #matrix .ghead text, #matrix .thead text { pointer-events: none; }
+
+/* venue community tag on cards, small segmented toggles in view headers */
+.ven { position: absolute; top: 3px; right: 3px; font-size: 9.5px; font-weight: 700; padding: 0 4px; border-radius: 2px; background: rgba(255,255,255,.94); border: 1px solid var(--line-2); }
+.seg.mini { flex: 0 0 auto; align-self: center; }
+.seg.mini button { height: 17px; padding: 0 6px; font-size: 10.5px; }
+#matrix .row.hdr .rlab { font-size: 10.5px; letter-spacing: .04em; fill: var(--muted); font-weight: 700; cursor: pointer; }
+#matrix .row.hdr .rbg { fill: transparent; }
+.ptable td.ven { white-space: nowrap; }

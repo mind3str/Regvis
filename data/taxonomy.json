@@ -7,7 +7,8 @@
   "Interaction",
   "Analytics",
   "Evaluation",
-  "Collaborator"
+  "Collaborator",
+  "Community"
  ],
  "labels": {
   "Level": [
@@ -79,6 +80,12 @@
    "Auditors",
    "Other domain experts",
    "None reported"
+  ],
+  "Community": [
+   "Visualization",
+   "Finance, economics and accounting",
+   "Other computing",
+   "Preprint"
   ]
  },
  "abbr": {
@@ -151,6 +158,12 @@
    "Auditors": "Aud",
    "Other domain experts": "Exp",
    "None reported": "None"
+  },
+  "Community": {
+   "Visualization": "Vis",
+   "Finance, economics and accounting": "Fin",
+   "Other computing": "CS",
+   "Preprint": "Pre"
   }
  },
  "periods": [
