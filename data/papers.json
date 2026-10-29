@@ -892,8 +892,8 @@
   ],
   "Bibtex": "@article{baldo2023visual, title={{Visual analytics for monitoring credit scoring models}}, volume={22}, ISSN={1473-8724}, DOI={10.1177/14738716231180803}, number={4}, journal={Information Visualization}, publisher={SAGE Publications}, author={Baldo, Daiane Rodrigues and Regio, Murilo Santos and Manssour, Isabel Harb}, year={2023}, pages={340--357} }",
   "Thumbnail": "thumbnails/C04542.png",
-  "ThumbnailSource": "placeholder",
-  "ThumbnailFigure": ""
+  "ThumbnailSource": "figure image",
+  "ThumbnailFigure": "Fig. 3"
  },
  {
   "ID": "C03229",
