@@ -3393,8 +3393,8 @@
   ],
   "Bibtex": "@article{sarlin2013data, title={{Data and dimension reduction for visual financial performance analysis}}, volume={14}, ISSN={1473-8724}, DOI={10.1177/1473871613504102}, number={2}, journal={Information Visualization}, publisher={SAGE Publications}, author={Sarlin, Peter}, year={2013}, pages={148–167} }",
   "Thumbnail": "thumbnails/C04218.png",
-  "ThumbnailSource": "placeholder",
-  "ThumbnailFigure": ""
+  "ThumbnailSource": "figure image",
+  "ThumbnailFigure": "Fig. 2"
  },
  {
   "ID": "C04217",
@@ -3582,8 +3582,8 @@
   ],
   "Bibtex": "@article{vonlandesberger2013visual, title={{Visual analysis of contagion in networks}}, volume={14}, ISSN={1473-8724}, DOI={10.1177/1473871613487087}, number={2}, journal={Information Visualization}, publisher={SAGE Publications}, author={Von Landesberger, Tatiana and Diel, Simon and Bremm, Sebastian and Fellner, Dieter W}, year={2013}, pages={93–110} }",
   "Thumbnail": "thumbnails/C04192.png",
-  "ThumbnailSource": "placeholder",
-  "ThumbnailFigure": ""
+  "ThumbnailSource": "figure image",
+  "ThumbnailFigure": "Fig. 4"
  },
  {
   "ID": "C04244",
