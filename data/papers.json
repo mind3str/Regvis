@@ -533,7 +533,7 @@
   "Community": [
    "Other computing"
   ],
-  "Bibtex": "@inproceedings{lu2024risqnet, series={IJCAI-2024}, title={{RisQNet: Rescuing SMEs from Financial Shocks with a Novel Networked-Loan Risk Assessment}}, DOI={10.24963/ijcai.2024/817}, booktitle={Proceedings of the Thirty-ThirdInternational Joint Conference on Artificial Intelligence}, publisher={International Joint Conferences on Artificial Intelligence Organization}, author={Lu, Zhaoyuan and Li, Taijun and Zhang, Jingzhen and Liu, Moyang and Li, Xiang and Cui, Linyi and Chen, Junqi and Niu, Zhibin}, year={2024}, pages={7385–7393}, collection={IJCAI-2024} }",
+  "Bibtex": "@inproceedings{lu2024risqnet, series={IJCAI-2024}, title={{RisQNet: Rescuing SMEs from Financial Shocks with a Novel Networked-Loan Risk Assessment}}, DOI={10.24963/ijcai.2024/817}, booktitle={Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence}, publisher={International Joint Conferences on Artificial Intelligence Organization}, author={Lu, Zhaoyuan and Li, Taijun and Zhang, Jingzhen and Liu, Moyang and Li, Xiang and Cui, Linyi and Chen, Junqi and Niu, Zhibin}, year={2024}, pages={7385–7393}, collection={IJCAI-2024} }",
   "Thumbnail": "thumbnails/C02231.png",
   "ThumbnailSource": "pdf",
   "ThumbnailFigure": "Fig. 7"
@@ -845,6 +845,55 @@
   "Thumbnail": "thumbnails/C02588.png",
   "ThumbnailSource": "panels",
   "ThumbnailFigure": "Fig. 1"
+ },
+ {
+  "ID": "C04542",
+  "CitationKey": "baldo2023visual",
+  "Title": "Visual analytics for monitoring credit scoring models",
+  "Authors": [
+   "Daiane Rodrigues Baldo",
+   "Murilo Santos Regio",
+   "Isabel Harb Manssour"
+  ],
+  "Year": 2023,
+  "Venue": "Information Visualization",
+  "DOI": "10.1177/14738716231180803",
+  "Link": "https://doi.org/10.1177/14738716231180803",
+  "Section": "",
+  "Level": [
+   "Microprudential supervision and compliance"
+  ],
+  "Task": [
+   "Credit risk and bank supervision"
+  ],
+  "Data": [
+   "Multivariate indicators"
+  ],
+  "Visualization": [
+   "Dashboards",
+   "Statistical charts"
+  ],
+  "Interaction": [
+   "Exploration and filtering",
+   "Comparison"
+  ],
+  "Analytics": [
+   "Statistical models"
+  ],
+  "Evaluation": [
+   "Case study",
+   "Expert interview"
+  ],
+  "Collaborator": [
+   "Financial institutions"
+  ],
+  "Community": [
+   "Visualization"
+  ],
+  "Bibtex": "@article{baldo2023visual, title={{Visual analytics for monitoring credit scoring models}}, volume={22}, ISSN={1473-8724}, DOI={10.1177/14738716231180803}, number={4}, journal={Information Visualization}, publisher={SAGE Publications}, author={Baldo, Daiane Rodrigues and Regio, Murilo Santos and Manssour, Isabel Harb}, year={2023}, pages={340--357} }",
+  "Thumbnail": "thumbnails/C04542.png",
+  "ThumbnailSource": "placeholder",
+  "ThumbnailFigure": ""
  },
  {
   "ID": "C03229",
@@ -1754,6 +1803,59 @@
   "Thumbnail": "thumbnails/C03818.png",
   "ThumbnailSource": "pdf",
   "ThumbnailFigure": "Fig. 3"
+ },
+ {
+  "ID": "C04543",
+  "CitationKey": "morar2019drilling",
+  "Title": "Drilling Into Dashboards: Responding to Computer Recommendation in Fraud Analysis",
+  "Authors": [
+   "Natan Morar",
+   "Chris Baber",
+   "Faye McCabe",
+   "Sandra D. Starke",
+   "Inna Skarbovsky",
+   "Alexander Artikis",
+   "Ivo Correia"
+  ],
+  "Year": 2019,
+  "Venue": "IEEE Transactions on Human-Machine Systems",
+  "DOI": "10.1109/thms.2019.2925619",
+  "Link": "https://doi.org/10.1109/thms.2019.2925619",
+  "Section": "",
+  "Level": [
+   "Microprudential supervision and compliance"
+  ],
+  "Task": [
+   "Fraud detection and transaction monitoring"
+  ],
+  "Data": [
+   "Transactions and payments",
+   "Geographic data"
+  ],
+  "Visualization": [
+   "Dashboards",
+   "Maps",
+   "Statistical charts"
+  ],
+  "Interaction": [
+   "Exploration and filtering"
+  ],
+  "Analytics": [
+   "Rules and scoring"
+  ],
+  "Evaluation": [
+   "User study"
+  ],
+  "Collaborator": [
+   "Financial institutions"
+  ],
+  "Community": [
+   "Other computing"
+  ],
+  "Bibtex": "@article{morar2019drilling, title={{Drilling Into Dashboards: Responding to Computer Recommendation in Fraud Analysis}}, volume={49}, ISSN={2168-2305}, DOI={10.1109/thms.2019.2925619}, number={6}, journal={IEEE Transactions on Human-Machine Systems}, publisher={Institute of Electrical and Electronics Engineers (IEEE)}, author={Morar, Natan and Baber, Chris and McCabe, Faye and Starke, Sandra D. and Skarbovsky, Inna and Artikis, Alexander and Correia, Ivo}, year={2019}, pages={633--641} }",
+  "Thumbnail": "thumbnails/C04543.png",
+  "ThumbnailSource": "figure image",
+  "ThumbnailFigure": "Fig. 4"
  },
  {
   "ID": "C03748",
@@ -3757,7 +3859,7 @@
    "Coordinated multiple views"
   ],
   "Interaction": [
-   "Steering models or rules"
+   "Exploration and filtering"
   ],
   "Analytics": [
    "None"
