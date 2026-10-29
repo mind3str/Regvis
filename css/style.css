@@ -54,6 +54,14 @@ select:focus, input:focus, button:focus-visible, [tabindex]:focus-visible { outl
 .legend { margin-left: auto; display: flex; gap: 10px; flex: 0 0 auto; }
 .legend .li { display: inline-flex; align-items: center; gap: 4px; font-size: 11px; color: var(--ink-2); }
 .legend i { width: 9px; height: 9px; border-radius: 2px; display: inline-block; }
+.lg-group { display: inline-flex; gap: 8px; }
+.lg-group + .lg-group { padding-left: 10px; border-left: 1px solid var(--line-2); }
+.legend .li { cursor: pointer; border-radius: 3px; padding: 0 3px; }
+.legend .li:hover { background: #eef1f4; }
+.legend .li.on { background: #e3e9f0; font-weight: 700; }
+.legend .li.off .lt { text-decoration: line-through; color: var(--neg); }
+.legend .li svg { display: block; }
+.tip-ven { color: var(--muted); }
 .chart { position: relative; }
 .chart svg { display: block; overflow: visible; font-size: 10px; }
 .hint { margin: 2px 0 0; color: var(--muted); font-size: 10.5px; }
@@ -216,14 +224,16 @@ select:focus, input:focus, button:focus-visible, [tabindex]:focus-visible { outl
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 /* the label background rects take the clicks; text and glyphs on top pass them through */
-#matrix .rlab, #matrix .row .box, #matrix .row .mark, #matrix .rnum, #matrix .clab, #matrix .m-all, #matrix .m-cur { pointer-events: none; }
+#matrix .rlab, #matrix .row .box, #matrix .row .mark, #matrix .rnum, #matrix .clab, #matrix .m-all, #matrix .m-cur, #matrix .r-cur { pointer-events: none; }
 #matrix .ghead .hit, #matrix .thead .hit { fill: transparent; }
 #matrix .ghead text, #matrix .thead text { pointer-events: none; }
 
 /* venue community tag on cards, small segmented toggles in view headers */
 .ven { position: absolute; top: 3px; right: 3px; font-size: 9.5px; font-weight: 700; padding: 0 4px; border-radius: 2px; background: rgba(255,255,255,.94); border: 1px solid var(--line-2); }
-.seg.mini { flex: 0 0 auto; align-self: center; }
-.seg.mini button { height: 17px; padding: 0 6px; font-size: 10.5px; }
-#matrix .row.hdr .rlab { font-size: 10.5px; letter-spacing: .04em; fill: var(--muted); font-weight: 700; cursor: pointer; }
-#matrix .row.hdr .rbg { fill: transparent; }
 .ptable td.ven { white-space: nowrap; }
+
+/* folding of scope rows */
+#matrix .row .fold, #matrix .foldall path { fill: #7d8790; pointer-events: none; }
+#matrix .row .fold-hit, #matrix .foldall .hit { fill: transparent; cursor: pointer; }
+#matrix .row .fold-hit:hover + .box { stroke-width: 1.6; }
+#matrix .foldall:hover path, #matrix .row:hover .fold { fill: #1f3a57; }

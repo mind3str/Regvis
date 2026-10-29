@@ -26,11 +26,11 @@
       <div class="view-head">
         <span class="stage"><b>1</b> Overview</span>
         <h2>Timeline</h2>
-        <div class="seg mini" id="color-seg" role="group" aria-label="Color squares by">
-          <button type="button" data-color="scope" class="on" title="Color by main supervisory scope">Scope</button><button type="button" data-color="venue" title="Color by venue community: visualization, finance and economics, other computing, preprint">Venue</button>
-        </div>
-        <span class="vh-note" id="tl-note">one square per publication, colored by main scope · drag the year strip to zoom</span>
-        <span id="legend" class="legend"></span>
+        <span class="vh-note">one glyph per publication · color: main scope · shape: venue community · drag the year strip to zoom</span>
+        <span class="legend">
+          <span id="legend-scope" class="lg-group" aria-label="Main scope (click to filter)"></span>
+          <span id="legend-venue" class="lg-group" aria-label="Venue community (click to filter)"></span>
+        </span>
       </div>
       <div id="timeline" class="chart"></div>
     </section>
@@ -39,13 +39,11 @@
       <div class="view-head">
         <span class="stage"><b>2</b> Zoom &amp; filter</span>
         <h2>Taxonomy matrix</h2>
-        <div class="seg mini" id="rows-seg" role="group" aria-label="Matrix rows">
-          <button type="button" data-rows="domain" class="on" title="Rows: main supervisory scope and task (the domain view)">Domain</button><button type="button" data-rows="technique" title="Rows: visualization, interaction and analytics techniques (the technique view)">Technique</button>
-        </div>
-        <span class="vh-note" id="mx-note">rows: main scope › task · columns: venue community and design and evaluation dimensions · cell: publications in the current result</span>
+        <span class="vh-note">rows: main scope › task · columns: techniques and other design dimensions · bars: who publishes it, by venue community</span>
+        <span class="legend"><span id="legend-bars" class="lg-group" aria-label="Venue community of the marginal bars (click to filter)"></span></span>
       </div>
       <div id="matrix" class="chart"></div>
-      <p class="hint">Click a row or column label to include it, <b>shift-click</b> to exclude it, click a cell to filter by both. Click a dimension name to switch between <span class="u">∪</span> any (union) and <span class="u">∩</span> all (intersection) of its included labels. Bars: current result (dark) against the whole corpus (light).</p>
+      <p class="hint">Click a row or column label to include it, <b>shift-click</b> to exclude it, click a cell to filter by both. Click a dimension name to switch between <span class="u">∪</span> any (union) and <span class="u">∩</span> all (intersection) of its included labels. Bars: current result, stacked by venue community, against the whole corpus (gray). Legends are filters too.</p>
     </section>
   </div>
 
